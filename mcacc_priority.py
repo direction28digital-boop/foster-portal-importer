@@ -64,8 +64,10 @@ STATUS_WORDS = (
     "RTO",
 )
 
+# The overlay label is title-case in markup ("Transferred") and only
+# LOOKS uppercase via CSS, so status matching must be case-insensitive.
 CARD_RE = re.compile(
-    r"^(?:(?P<status>" + "|".join(STATUS_WORDS) + r")\s+)?"
+    r"^(?:(?P<status>(?i:" + "|".join(STATUS_WORDS) + r"))\s+)?"
     r"(?P<id>A\d{7})\s+"
     r"(?P<name>.+?)\s+"
     r"(?P<nho>NHO\s+)?PRIORITY:\s*(?P<reason>[A-Za-z]+)\s+"
@@ -75,7 +77,7 @@ CARD_RE = re.compile(
     r"(?P<kennel>.+?)\s+"
     r"(?P<deadline>\d{2}/\d{2}/\d{2})"
     # The status overlay can also sit after the deadline in DOM order.
-    r"(?:\s+(?P<status2>" + "|".join(STATUS_WORDS) + r"))?$"
+    r"(?:\s+(?P<status2>(?i:" + "|".join(STATUS_WORDS) + r")))?$"
 )
 
 RESOLVED_STATUSES = {"TRANSFERRED", "ADOPTED", "RTO"}
@@ -113,7 +115,7 @@ def parse_cards(html: str) -> list[dict]:
             dogs.append({"parse_error": text, "token": token})
             continue
         d = m.groupdict()
-        status = (d["status"] or d.get("status2") or "").strip()
+        status = (d["status"] or d.get("status2") or "").strip().upper()
         deadline = datetime.strptime(d["deadline"], "%m/%d/%y").date()
         dogs.append(
             {
