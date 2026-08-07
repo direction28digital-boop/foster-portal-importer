@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T11:57:35.449019+00:00",
+  "fetched_at": "2026-08-07T13:40:02.390045+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 47,
@@ -303,14 +303,14 @@
       "age": "2Y 1M",
       "sex": "Male",
       "shelter": "West",
-      "kennel": "West Kennel, Wing D - 098",
+      "kennel": "West Kennel, Wing Q - 032",
       "deadline": "2026-08-09",
       "days_left": 2,
       "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NDE4-MDJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDE4-MDJB",
-      "raw": "Transfer Pending A5168989 MOMO NHO PRIORITY: Behavior 2 years Male West Shelter, Wing D - 098 08/09/26",
+      "raw": "Transfer Pending A5168989 MOMO NHO PRIORITY: Behavior 2 years Male West Shelter, Wing Q - 032 08/09/26",
       "breed": "BROWN/BLACK AUST SHEPHERD/MIX",
       "level": "ORANGE",
       "weight": "24.0",
