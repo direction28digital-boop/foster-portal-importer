@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-07T19:15:34.530134+00:00",
+  "fetched_at": "2026-08-07T20:00:54.209303+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
-    "active": 48,
-    "resolved": 12,
-    "parse_errors": 0
+    "active": 46,
+    "resolved": 13,
+    "parse_errors": 1
   },
   "active": [
     {
@@ -134,38 +134,6 @@
         "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC East Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
       },
       "photo_file": "data/photos/A5168810.jpg"
-    },
-    {
-      "animal_id": "A5169280",
-      "name": "COBALT",
-      "nho": true,
-      "reason": "Medical",
-      "age": "2Y 1M",
-      "sex": "Male",
-      "shelter": "East",
-      "kennel": "East Kennel, Wing C - 243",
-      "deadline": "2026-08-09",
-      "days_left": 2,
-      "status": "RTO PENDING",
-      "resolved": false,
-      "token": "OTMw-NDcw-NDBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDcw-NDBB",
-      "raw": "RTO Pending A5169280 COBALT NHO PRIORITY: Medical 2 years Male East Shelter, Wing C - 243 08/09/26",
-      "breed": "GRAY WEIMARANER/MIX",
-      "level": "ORANGE",
-      "weight": "52.2",
-      "intake_date": "7/31/2026",
-      "due_out": "8/3/2026",
-      "deadline_date": "8/9/2026",
-      "sections": {
-        "intake": "7/31/2026\nDue Out\n8/3/2026\nDeadline Date\n8/9/2026\nRequirements\nNo requirements\nRecommendations\nNo recommendations",
-        "memo": "8/2/2026\n08/02/26 14:28\nDog is positive for Ehrlichia canis & faint heartworm positive. Dog is at risk of humane euthanasia on 8/10/26 if no outlet is found by COB on 8/9/26 but may be humanely euthanized earlier if QOL declines.\nIntake\n7/31/2026\nHow long have you had the animal ?\nONE DAY, TRAPPED WITH ONE OTHER DOG. SOURCE STATED THE 2 DOGS HAVE BEEN SEEN AT LARGE AND OFFERED FOOD TWICE DAILY FOR ABOUT A MONTH.\nWhat are the cross streets where you found the animal?\nRIGGS RD AND DOBSON RD\nIs this animal currently showing any signs of illness, taking any medication, or has the animal been diagnosed with a medical or behavioral condition?\nOPEN WOUND ON LEFT EAR.\nIs animal spayed/neutered?\nNO\nHas the animal shown any signs of aggression toward people or animals?\nNO AGGRESSION. SOURCE STATED THIS PET HAS BEEN VERY SHUT DOWN. QUIET, RESERVED, ALLOWS TOUCHING, TOOK FOOD BY HAND.\nHas the animal ever seriously injured or caused the death of another animal?\nNO\nWas this animal around any children?\nNO\nDid the animal interact with other animals?\nONLY AROUND THE DOG IT WAS TRAPPED WITH. THE TWO DOGS ARE VERY FRIENDLY WITH EACH OTHER.\nCats?\nNO\nDogs?\nONLY AROUND THE PET IT WAS TRAPPED WITH. THE TWO DOGS GET ALONG WELL AND LAY CLOSE TO ONE ANOTHER. NO FOOD AGGRESSION OBSERVED WHEN THE TWO DOGS ARE FED TOGETHER.\nLivestock (horses, cows, goats, chickens, etc.)?\nN/A\nOther Animals (birds, small mammals, reptiles, etc.)?\nN/A\nResource Guarding: Describe any known guarding of food, toys, people, or space?\nNONE OBSERVED\nCan the animal walk on a leash?\nUNKNOWN, SOURCE DID NOT ATTEMPT\nDoes the animal know any commands?\nUNKNOWN, SOURCE DID NOT ATTEMPT\nIf inside, did you keep the animal in a crate or allowed to roam free?\nIN A TRAP\nIf outside, what kind of fencing do you have, and did it contain the animal?\nN/A\nHow would you describe the animal\u2019s energy level?\nLOW ENERGY SINCE TRAPPED, SOURCE STATED THE DOG HAD MEDIUM TO HIGH ENERGY WHEN AT LARGE PRIOR TO TRAPPING.\nAny escapist behavior?\nAVOIDED THE TRAP FOR ABOUT A MONTH\nAny Door Dashes/Runs away, if so, describe?\nN/A\nAny Additional details/notes on behavior?\n7/31/2026\nThe following pets were trapped and brought in together:\nA5169283\nA5169280",
-        "evaluation_comments": "8/2/2026\nHandlers approached kennel front, dog was laying down with kennel mate, sleeping. Handler was able to lure dog through guillotine with hotdogs and lower guillotine to separate for pull. Assistant handler retrieved a behavior taxi while lead handler began leashing. Dog was interested in treats, as soon as leash made contact dog began attempting to retreat and tuck head in corner. Handler was able to cast leash over and maneuver down to secure on dog. Once secured handler tried to lure dog out with treats, no luck. Handler was able to drape blanket over head and pick up dog and place into taxi, dog thrashed briefly but allowed placement in taxi. Dog was transported to Training room, dog rode laying at bottom of taxi and light trembling. Once in room handlers tipped taxi, dog exited slowly and surveyed room independently, dog would look at handler but not approach. Dog stood under tables in room and tried to hide behind cardboard boxes. Handler removed boxes and dog retreated. After about 10 minutes handler was able to retrieve leash, dog continued to keep distance making leash retrieval difficult. Handler was able to drape towel over and lift into taxi again. Dog rode back to kennel laying down. Handler tipped taxi and dog exited on own with verbal encouragement. Handler was able to remove leash by hand. Guillotine was lifted and dog was reintroduced to kennel mate, dog appeared to have softened slightly.\n7/31/2026\nK9 would not walk and bucket was used to get them into the intake room, k9 was muzzled to perform vaccines. K9 was then taken by clinic to have blood drawn and to be examined per their vet. Will not walk, bucket was used to transport.",
-        "medical_treatments": "8/2/2026\n08/02/26 14:17\nP is BAR; very nervous but allowed all gentle pets and handling; BCS 5/9 with great appetite; formed stool score 3-4 in kennel. MM pink, moist; CRT <2 seconds\nEENT: AS outer/inner pinna with scabbed puncture wound and granulation tissue; wound extends all the way through skin. Mild debris AU. Mild scabbing on right pinna. Nose clean with no nasal discharge\nDental: grade 1/4\nCardio/Resp: Eupneic with normal respiratory effort observed\nGI: Formed stool score 3-4 in kennel\nDerm: Pinna wounds as described above; several focal alopecic areas throughout haircoat with no erythema or discharge\nNeuro: Normal mentation\nMusc/Skel: Ambulatory in kennel x4 with no lameness appreciated\nUrogenital: Intact male with two descended testes\nA:\n- Ehrlichia-positive (4Dx)\n- Faint heartworm antigen-positive (4Dx)\n- Bilateral pinnal wounds, L>R \u2013 r/o: fly strike vs traumatic wounds with secondary superficial bacterial infection\nP:\n- Continue Doxycycline as prescribed\n- Continue Carprofen as prescribed\n- Rx: Cephalexin 500 mg - Give 1 capsule PO BID x 14 days\n- Dog is not suitable to PUFA or foster. Dog is not eligible for surgery at MCACC due to health. Dog needs transfer to an urgent medical NHO Partner for continued ehrlichia treatment and heartworm treatment, etc. Urgent medical NHO. Dog is at risk of humane euthanasia on 8/10/26 if no outlet is found by COB on 8/9/26. Dog may be humanely euthanized earlier if QOL declines.\n7/31/2026\n07/31/26 16:54\nHW4DX Snap: Heartworm (faint +), Ehrlichia (+), Anaplasma (-), Lyme (-)\nPCV: 33%\nTS: 8.6\nclm\n08/01/26 07:16 RX doxycycline 10mg/kg 250mg PO q24h x 28d for Ehrlichia. Patient needs medical outlet pending in person exam. SH\n7/31/2026\n07/31/26 17:06\nIntake called to clinic to come check on dog brought in. Dog was in taxi, not wanting to walk. Dog appeared lethargic, but also very nervous/shutdown. Gums appeared slightly pale. Noted wound on inside of left ear and scabbing on both ears. Per intake dog had ticks and yelped when lifting into taxi.   clm\n08/01/26 07:17 Telemedicine consult at roughly 07/31/26 16:00. Patient reported to have pale pink mm and be lethargic. Possible pain noted when attempting to lift patient (r/o behavioral). PLAN: 4DX, carprofen 50mg PO 07/31/26 then 100mg PO q24h x 2d starting 08/01/26. SH\n7/31/2026\nNobivac 3-Rabies, manufactured by Zoetis, Serial number: _871404___ administered SQ, R lateral hip, by _clm__,\nsupervising veterinarian ST.\n7/31/2026\ndoxycline 100mg 2.5 tabs PO & carprofen 100mg 0.5 tab PO given per SMH\naa\n7/31/2026\nSource stated dog has open wound on left ear\n7/31/2026\nNobivac Canine 1-DAPPv, manufactured by Merck, Serial number: 02120235A\nadministered SQ, R lateral shoulder by LE LP.\nNobivac Intra-Trac3, manufactured by Merck, Serial number: 00541530B administered IN by LE LP.\nMale: Testicles palpable with adult reproductive features, consistent with unaltered male. Confirmed by: LE\nBravecto (fluralaner) for dogs >44-88lb (1000mg) 1 tube of topical solution applied in multiple spots between shoulder blades and along back by CLM. Reapply after three months.\nMylar placed\nNo chip",
-        "in_kennel_behavior_rounds": "No In-Kennel Behavior Rounds Memos",
-        "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC East Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
-      },
-      "photo_file": "data/photos/A5169280.jpg"
     },
     {
       "animal_id": "A5149654",
@@ -358,38 +326,6 @@
         "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC West Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
       },
       "photo_file": "data/photos/A5169119.jpg"
-    },
-    {
-      "animal_id": "A5169563",
-      "name": "ROSE",
-      "nho": true,
-      "reason": "Medical",
-      "age": "0Y 3M",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "East Kennel, Wing I - 294",
-      "deadline": "2026-08-09",
-      "days_left": 2,
-      "status": "TRANSFER PENDING",
-      "resolved": false,
-      "token": "OTMw-NTIx-MzRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTIx-MzRB",
-      "raw": "Transfer Pending A5169563 ROSE NHO PRIORITY: Medical 10 weeks Female East Shelter, Wing I - 294 08/09/26",
-      "breed": "BROWN/WHITE AM PIT BULL TER",
-      "level": "GREEN",
-      "weight": "12.7",
-      "intake_date": "8/5/2026",
-      "due_out": "8/5/2026",
-      "deadline_date": "8/9/2026",
-      "sections": {
-        "intake": "8/5/2026\nDue Out\n8/5/2026\nDeadline Date\n8/9/2026\nRequirements\nNo requirements\nRecommendations\nNo recommendations",
-        "memo": "8/6/2026\n08/06/26 07:06 Pup is parvo positive. Pup is at risk of humane euthanasia on 08/10/26 if no outlet is found by COB on 08/09/26. Pup may be humanely euthanized earlier if QOL declines.\nIntake\n8/5/2026\nA5169558\nA5169562\nA5169563",
-        "evaluation_comments": "8/5/2026\npuppy behavior\n8/5/2026\nnormal puppy behavior",
-        "medical_treatments": "8/6/2026\n08/06/26 07:06\nPatient BAR/active, great appetite, soft formed feces in kennel. Continue currrent plan.\n08/06/26 17:45 Addendum\nS/O: Patient QAR, vomited once, decreased appetite.\nA: Parvovirus SNAP positive\nP:\n- Cerenia 0.6mL SC q24h x 4d\n- LRS 150mL SC q24h x 4d\n- Convenia 8mg/kg 0.6mL SC once\n- Pup is parvo positive. Pup is not suitable to PUFA/foster. Pup is not eligible for surgery due to health. Pup needs outlet with NH Partner for treatment at a veterinary clinic. Urgent medical NHO. Pup is at risk of humane euthanasia on 08/10/26 if no outlet is found by COB on 08/09/26. Pup may be humanely euthanized earlier if QOL declines.\n8/5/2026\nNobivac Canine 1-DAPPv, manufactured by Merck, Serial number: 02120235A administered SQ, R lateral shoulder. CR\nNobivac Intra-Trac3, manufactured by Merck, Serial number: 00541530B administered IN. CR\nNo tattoo or no scar seen with adult mammary and vulvar development, consistent with unaltered female. LR\nProvecta Advanced for dogs 11-20lbs (1.0ml) 1 tube of topical solution applied between shoulder blades by __CR_. Reapply after one month.\n8/5/2026\n08/05/26 19:07\nTargeted exam due to infectious disease concerns\nS/O: Gen - BAR, BCS 5/9, good appeitte, no v/d in room\nEENT - Eyes clear and free of discharge/redness. Nose clean and free of discharge. External ears are free of discharge/redness.\nOral - Deciduous dentition.\nH/L/MM - Normal heart rate. Normal respiratory rate and effort. No coughing or sneezing. No stertor, no stridor. Mucous membranes pink and milldly tacky with CRT<2s.\nGI - Abdomen soft.\nINTEG - Coat is clean and clear of redness and ectoparasites.\nNEURO - Normal mentation.\nA:\n- canine parvovirus SNAP (-) negative\nP:\n- move to clinic for monitoring\n- not okay to PUFA until improving",
-        "in_kennel_behavior_rounds": "No In-Kennel Behavior Rounds Memos",
-        "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC East Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
-      },
-      "photo_file": "data/photos/A5169563.jpg"
     },
     {
       "animal_id": "A5162499",
@@ -1748,7 +1684,29 @@
       "token": "OTMw-NTIw-NDRB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTIw-NDRB",
       "raw": "Transferred A5169558 JULIO NHO PRIORITY: Medical 9 weeks Male East Shelter, Wing I - 294 08/06/26"
+    },
+    {
+      "animal_id": "A5169563",
+      "name": "Rose",
+      "nho": true,
+      "reason": "Medical",
+      "age": "10 weeks",
+      "sex": "Female",
+      "shelter": "East",
+      "kennel": "Wing I - 294",
+      "deadline": "2026-08-09",
+      "days_left": 2,
+      "status": "TRANSFERRED",
+      "resolved": true,
+      "token": "OTMw-NTIx-MzRB",
+      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTIx-MzRB",
+      "raw": "Transferred A5169563 ROSE NHO PRIORITY: Medical 10 weeks Female East Shelter, Wing I - 294 08/09/26"
     }
   ],
-  "parse_errors": []
+  "parse_errors": [
+    {
+      "parse_error": "Returned to Owner A5169280 COBALT NHO PRIORITY: Medical 2 years Male East Shelter, Wing C - 243 08/09/26",
+      "token": "OTMw-NDcw-NDBB"
+    }
+  ]
 }
