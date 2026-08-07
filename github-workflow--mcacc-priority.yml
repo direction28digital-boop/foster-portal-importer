@@ -1,0 +1,38 @@
+name: MCACC Priority import
+
+on:
+  schedule:
+    # Hourly, offset from the top of the hour to be polite.
+    - cron: "17 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run importer
+        run: python mcacc_priority.py --details --photos
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "mcacc-importer"
+          git config user.email "foster@dogfoster.org"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "MCACC priority import $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
