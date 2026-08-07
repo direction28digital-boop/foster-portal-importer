@@ -73,7 +73,9 @@ CARD_RE = re.compile(
     r"(?P<sex>Neutered|Spayed|Male|Female)\s+"
     r"(?P<shelter>East|West)\s+Shelter,\s*"
     r"(?P<kennel>.+?)\s+"
-    r"(?P<deadline>\d{2}/\d{2}/\d{2})$"
+    r"(?P<deadline>\d{2}/\d{2}/\d{2})"
+    # The status overlay can also sit after the deadline in DOM order.
+    r"(?:\s+(?P<status2>" + "|".join(STATUS_WORDS) + r"))?$"
 )
 
 RESOLVED_STATUSES = {"TRANSFERRED", "ADOPTED", "RTO"}
@@ -111,6 +113,7 @@ def parse_cards(html: str) -> list[dict]:
             dogs.append({"parse_error": text, "token": token})
             continue
         d = m.groupdict()
+        status = (d["status"] or d.get("status2") or "").strip()
         deadline = datetime.strptime(d["deadline"], "%m/%d/%y").date()
         dogs.append(
             {
@@ -124,8 +127,8 @@ def parse_cards(html: str) -> list[dict]:
                 "kennel": d["kennel"],
                 "deadline": deadline.isoformat(),
                 "days_left": (deadline - date.today()).days,
-                "status": (d["status"] or "").strip() or None,
-                "resolved": (d["status"] or "").strip() in RESOLVED_STATUSES,
+                "status": status or None,
+                "resolved": status in RESOLVED_STATUSES,
                 "token": token,
                 "detail_url": DETAILS_URL + token if token else None,
                 "raw": text,
@@ -135,10 +138,17 @@ def parse_cards(html: str) -> list[dict]:
 
 
 def fetch_all(session: requests.Session) -> list[dict]:
-    """Walk grid pages until a page repeats or comes back empty."""
+    """Walk grid pages until they run dry.
+
+    Quirk found on the first live run: the portal serves the SAME first
+    page for pageNumber 0 and 1, so a single no-new-cards page must not
+    end the walk. Stop only after two consecutive pages add nothing, or
+    a page comes back empty.
+    """
     seen_tokens: set[str] = set()
     seen_ids: set[str] = set()
     all_dogs: list[dict] = []
+    consecutive_stale = 0
     for page in range(MAX_PAGES):
         html = fetch_grid_page(session, page)
         cards = parse_cards(html)
@@ -151,7 +161,12 @@ def fetch_all(session: requests.Session) -> list[dict]:
             or (not c.get("token") and c.get("animal_id") not in seen_ids)
         ]
         if not new:
-            break
+            consecutive_stale += 1
+            if consecutive_stale >= 2:
+                break
+            time.sleep(REQUEST_DELAY_S)
+            continue
+        consecutive_stale = 0
         for c in new:
             if c.get("token"):
                 seen_tokens.add(c["token"])
