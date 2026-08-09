@@ -1,0 +1,59 @@
+name: Daily bios + team digest
+
+# Runs once each morning, after the hourly importer has refreshed the feed.
+# 14:30 UTC = 7:30am in Phoenix (Arizona does not observe daylight saving).
+on:
+  schedule:
+    - cron: "30 14 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Refresh first, so the digest describes the list as it stands this morning
+      # rather than whatever the last hourly run happened to leave behind.
+      - name: Refresh the county feed
+        run: python mcacc_priority.py --details --photos
+
+      - name: Write bios for any new dogs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_bios.py
+
+      # Commit before sending. If the send fails, the bios are still saved and live
+      # on the site, which is the part that actually matters to a dog.
+      - name: Commit data if changed
+        run: |
+          git config user.name "mcacc-importer"
+          git config user.email "foster@dogfoster.org"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Bios + import $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Send the digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO: ${{ vars.DIGEST_TO }}
+          DIGEST_FROM: ${{ vars.DIGEST_FROM }}
+        run: python daily_digest.py
