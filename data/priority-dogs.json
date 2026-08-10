@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-10T06:23:46.029033+00:00",
+  "fetched_at": "2026-08-10T08:52:30.974515+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 56,
-    "resolved": 12,
-    "parse_errors": 1
+    "resolved": 9,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -50,11 +50,11 @@
       "kennel": "East Kennel, Wing S - 211",
       "deadline": "2026-08-09",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-Mzg1-ODBB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Mzg1-ODBB",
-      "raw": "A5168810 BILLY NHO PRIORITY: Behavior 2 years Male East Shelter, Wing S - 211 08/09/26",
+      "raw": "Transfer Pending A5168810 BILLY NHO PRIORITY: Behavior 2 years Male East Shelter, Wing S - 211 08/09/26",
       "breed": "BLACK/BROWN DOBERMAN PINSCH",
       "level": "ORANGE",
       "weight": "37.6",
@@ -178,11 +178,11 @@
       "kennel": "West Kennel, Wing G - 219",
       "deadline": "2026-08-09",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NDQx-NDJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDQx-NDJB",
-      "raw": "A5169119 POMEGRANATE NHO PRIORITY: Behavior 1 year 1 month Male West Shelter, Wing G - 219 08/09/26",
+      "raw": "Transfer Pending A5169119 POMEGRANATE NHO PRIORITY: Behavior 1 year 1 month Male West Shelter, Wing G - 219 08/09/26",
       "breed": "BLACK/BROWN PUG/MIX",
       "level": "ORANGE",
       "weight": "16.2",
@@ -210,11 +210,11 @@
       "kennel": "West Kennel, Wing E - 134",
       "deadline": "2026-08-09",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTI5-MjQ5-ODJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-MjQ5-ODJB",
-      "raw": "A5162499 SAKE NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing E - 134 08/09/26",
+      "raw": "Transfer Pending A5162499 SAKE NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing E - 134 08/09/26",
       "breed": "BLACK/GRAY AUST CATTLE DOG/MIX",
       "level": "ORANGE",
       "weight": "51.3",
@@ -1802,57 +1802,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5168196",
-      "name": "Colby",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing S - 210",
-      "deadline": "2026-08-09",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Mjc1-MjhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Mjc1-MjhB",
-      "raw": "Transferred A5168196 COLBY NHO PRIORITY: Behavior 3 years Neutered East Shelter, Wing S - 210 08/09/26"
-    },
-    {
-      "animal_id": "A5168989",
-      "name": "Momo",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 032",
-      "deadline": "2026-08-09",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NDE4-MDJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDE4-MDJB",
-      "raw": "Transferred A5168989 MOMO NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing Q - 032 08/09/26"
-    },
-    {
-      "animal_id": "A5169563",
-      "name": "Rose",
-      "nho": true,
-      "reason": "Medical",
-      "age": "11 weeks",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "Wing I - 294",
-      "deadline": "2026-08-09",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NTIx-MzRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTIx-MzRB",
-      "raw": "Transferred A5169563 ROSE NHO PRIORITY: Medical 11 weeks Female East Shelter, Wing I - 294 08/09/26"
-    },
-    {
       "animal_id": "A5078057",
       "name": "Louie",
       "nho": false,
@@ -2006,10 +1955,5 @@
       "raw": "Transferred A5169591 COSSETTE NHO PRIORITY: Medical 4 years Female West Shelter, Wing X - 502 08/13/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5169280 COBALT NHO PRIORITY: Medical 2 years Male East Shelter, Wing C - 243 08/09/26",
-      "token": "OTMw-NDcw-NDBB"
-    }
-  ]
+  "parse_errors": []
 }
