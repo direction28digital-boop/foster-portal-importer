@@ -1,0 +1,4 @@
+
+# macOS Finder droppings. The hourly workflow does `git add data/`, so an
+# unignored .DS_Store there would get committed by the importer.
+.DS_Store
