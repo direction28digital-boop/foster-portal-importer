@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       # Refresh first, so the digest describes the list as it stands this morning
       # rather than whatever the last hourly run happened to leave behind.

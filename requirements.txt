@@ -1,0 +1,9 @@
+# Single dependency list for BOTH workflows.
+#
+# Why this file exists: daily-digest.yml and mcacc-priority.yml each hand-maintained
+# their own `pip install` line, and they drifted. The digest ran the same importer
+# script without beautifulsoup4 and died on `from bs4 import BeautifulSoup` at the
+# first step, every morning, before bios, before the commit, before the send.
+# Two lists for one set of scripts will always drift eventually. This is one list.
+requests
+beautifulsoup4
