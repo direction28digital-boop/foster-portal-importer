@@ -31,7 +31,21 @@ from pathlib import Path
 import requests
 
 DATA = Path(__file__).parent / "data"
-SITE = os.environ.get("SITE_URL", "https://thecrazydogpeople.com").rstrip("/")
+
+
+def env(name: str, default: str) -> str:
+    """os.environ.get, but treats an EMPTY value as absent.
+
+    GitHub Actions substitutes an undefined `vars.X` as the empty string rather
+    than omitting it, so `os.environ.get("DIGEST_TO", "fallback")` returns ""
+    and the fallback never fires. That is exactly how this script sent a digest
+    with no `to` field and got a 422 from Resend on 2026-08-11.
+    """
+    value = os.environ.get(name)
+    return value.strip() if value and value.strip() else default
+
+
+SITE = env("SITE_URL", "https://thecrazydogpeople.com").rstrip("/")
 
 # Phoenix does not observe daylight saving. The county clock is always UTC-7.
 PHOENIX = timezone(timedelta(hours=-7))
@@ -218,9 +232,15 @@ def main() -> int:
         return 1
 
     to = [a.strip() for a in
-          os.environ.get("DIGEST_TO", "deerommes@gmail.com").split(",") if a.strip()]
-    sender = os.environ.get(
+          env("DIGEST_TO", "deerommes@gmail.com").split(",") if a.strip()]
+    sender = env(
         "DIGEST_FROM", "The CrAZy Dog People <digest@thecrazydogpeople.com>")
+
+    # Belt and braces: never POST a send with no recipient. A 422 from Resend is
+    # a confusing way to learn that a config variable was blank.
+    if not to:
+        print("No recipients: DIGEST_TO resolved to nothing.", file=sys.stderr)
+        return 1
 
     resp = requests.post(
         "https://api.resend.com/emails",
