@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T02:46:07.518351+00:00",
+  "fetched_at": "2026-08-14T05:01:46.791966+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 33,
@@ -114,11 +114,11 @@
       "kennel": "West Kennel, Wing H - 247",
       "deadline": "2026-08-16",
       "days_left": 2,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-MzMx-MjZB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MzMx-MjZB",
-      "raw": "A5168507 BEAR NHO PRIORITY: Behavior 7 years Neutered West Shelter, Wing H - 247 08/16/26",
+      "raw": "Transfer Pending A5168507 BEAR NHO PRIORITY: Behavior 7 years Neutered West Shelter, Wing H - 247 08/16/26",
       "breed": "CHOCOLATE/TAN AUST SHEPHERD/MIX",
       "level": "ORANGE",
       "weight": "80.5",
