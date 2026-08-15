@@ -1,44 +1,12 @@
 {
-  "fetched_at": "2026-08-15T21:35:24.518542+00:00",
+  "fetched_at": "2026-08-15T22:37:22.568911+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
-    "active": 35,
-    "resolved": 17,
+    "active": 34,
+    "resolved": 18,
     "parse_errors": 0
   },
   "active": [
-    {
-      "animal_id": "A5168600",
-      "name": "SPINACH",
-      "nho": true,
-      "reason": "Medical",
-      "age": "8Y 1M",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "East Kennel, Wing B - 117",
-      "deadline": "2026-08-13",
-      "days_left": -2,
-      "status": "TRANSFER PENDING",
-      "resolved": false,
-      "token": "OTMw-MzQ4-MDBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MzQ4-MDBB",
-      "raw": "Transfer Pending A5168600 SPINACH NHO PRIORITY: Medical 8 years Female East Shelter, Wing B - 117 08/13/26",
-      "breed": "TAN/BLACK GERM SHEPHERD",
-      "level": "YELLOW",
-      "weight": "77.6",
-      "intake_date": "7/20/2026",
-      "due_out": "7/23/2026",
-      "deadline_date": "8/13/2026",
-      "sections": {
-        "intake": "7/20/2026\nDue Out\n7/23/2026\nDeadline Date\n8/13/2026\nRequirements\nNo requirements\nRecommendations\nFAMILY INTRODUCTION\nGO SLOW",
-        "memo": "8/5/2026\n08/05/26 17:50 Multiple mammary masses. Dog is at risk of humane euthanasia on 8/14/26 if no outlet is found by COB on 08/13/26. Dog may be humanely euthanized earlier if QOL declines.\nIntake\n7/20/2026\nHow long have you had the animal ?\n1 WEEK, SOURCE STATED THEY FOUND A5168600 ROAMING AROUND THE NEIGHBORHOOD.\nWhat are the cross streets where you found the animal?\nHilton Ave & Harris Dr\nIs this animal currently showing any signs of illness, taking any medication, or has the animal been diagnosed with a medical or behavioral condition?\nNO\nIs animal spayed/neutered?\nUNK\nHas the animal shown any signs of aggression toward people or animals?\nNO\nHas the animal ever seriously injured or caused the death of another animal?\nNO\nWas this animal around any children?\nNO\nDid the animal interact with other animals?\nSOURCE STATED THEY HAVE 2 DOGS AND 1 CAT ALREADY IN HOUSEHOLD, 1 HUSKY AND 1 GOLDEN RETREIVER. SOURCE STATED A5168600 SEEMED TO DO OKAY WITH THEIR DOGS BUT PLAYED A BIT ROUGH WITH THEIR HUSKY HOWEVER HAD NEVER TRIED TO AGGRESS OR BITE THEIR DOGS. SOURCE STATED A5168600 DID NOT DO WELL WITH THEIR CAR\nCats?\n1 CAT, SOURCE DOG WOULD GROWL AT THE CAT AND TRIED TO RUN UP TO IT\nDogs?\nSOURCE STATED A5168600 SEEMED TO DO OKAY WITH THEIR DOGS BUT PLAYED A BIT ROUGH WITH THEIR HUSKY HOWEVER HAD NEVER TRIED TO AGGRESS OR BITE THEIR DOGS.\nLivestock (horses, cows, goats, chickens, etc.)?\nN/A\nOther Animals (birds, small mammals, reptiles, etc.)?\nN/A\nResource Guarding: Describe any known guarding of food, toys, people, or space?\nNO, HOWEVER DOG DID NIP BUT NOT BITE/NEVER BROKE SKIN\nCan the animal walk on a leash?\nYES\nDoes the animal know any commands?\nSIT, LAY\nIf inside, did you keep the animal in a crate or allowed to roam free?\nFREE ROAM\nIf outside, what kind of fencing do you have, and did it contain the animal?\n6 FT BLOCK FENCING, CONTAINED DOG\nHow would you describe the animal\u2019s energy level?\nLOW-MEDIUM ENERGY\nAny escapist behavior?\nNO\nAny Door Dashes/Runs away, if so, describe?\nNO\nAny Additional details/notes on behavior?\nNO",
-        "evaluation_comments": "8/5/2026\nGentle, solicits attention, tolerant of handling.\n8/1/2026\nEasy to pull from kennel, Moderate to return to kennel, Not interested in toys, Takes treats nicely, Easy/Loose Leash, Calm, Timid, Very easy to pull, walks well on leash and is calm. The rturn is a little bit more difficult because she does not want to get in the kennel; was able to get her in by stepping inside and then moving slowly to remove leash and close the gate.\n7/25/2026\nAvoidant, Easy to pull from kennel, Moderate to return to kennel, Used clip lead to return to kennel, Not interested in toys, Grabby at treats, Easy/Loose Leash, Calm, Ignored dogs when walking past kennels, Easy to pull and walk nice on leash. Initially avoidant, moving away from handler and not accepting treats, but after a while she started to feel more comfortable, approaching handler to get pets and taking treats. Did not want to get back in kennel and needed some encouragement\n7/22/2026\nDog was laying down with soft stare; Ears alert; Calm and greets with tail wag; Allows petting and solicits;\n**Due to current kennel presence and previous notes; Placing dog to intake color yellow.**\n7/20/2026\nCanine was hesitant upon approach in lobby but allowed leashing and walked into intake room on own. Canine solicited attention from handlers and allowed petting. Moderate restraint needed for vaccines; muzzle wrap used. Canine was stop and go on leash and would zig zag when other canines began barking. Walked into kennel on own and leash was removed by hand.",
-        "medical_treatments": "8/5/2026\nPre-operative Examination, performed by: _SMH___\nPre-op tech: _KLB___\nT: __100.6__\u00b0F\nHR: _110__bpm\nRR: _30__brpm\nGeneral Appearance: BAR\nRespiratory: NSF\nCardio: NSF\nRepro/Urogenital: ABN-~3.5cm spherical soft fluctuant subcutaneous mass mid L mammary chain and ~8X4X4cm firm L caudal mammary/inguinal mass\nDerm: NSF\nEars: NSF\nEyes: NSF\nNervous: NSF\nM/S: NSF\nDental: NSF\nGI: NSF\nL/N: NSF\nBCS: _5_ /9\nDental grade: _2_ /4\nObservations during pre-op/procedure: N/a\nTreatments:\nPyrantel pamoate (50 mg/ml) __0__ ml PO administered once pre-op.\nCarprofen (50 mg/ml) __3.0__ ml SQ administered once pre-op.\nMicrochip Implanted SQ, placement confirmed via microchip scanner. Please see Microchip Entry for number.\nInduction & Prep Tech Initials_KLB/BZ___\nAnesthesia:\nInduced with TTDex (5 ml cake 100 mg/ml Telazol to 2.5 ml 10 mg/ml Butorphanol + 2.5 ml 0.50 mg/ml Dexmedetomidine) _0.7___ ml IM at _0830___\nIntubated at _0845___ with __13.0__ -size ET tube\nMaintained on Isoflurane and Oxygen.\nAnesthesia End Time: __0855__\nAnesthesia Tech Initials: __JB___ Recovery Tech Initials: __BZ____\nMonitoring:\nTime: _0845___ T__99.1__ \u00b0F; HR _90___ bpm; RR __15__ brpm\nTime: _0900___ T_102.0___ \u00b0F; HR _98___ bpm; RR __20__ brpm\nEnd Recovery Time: _0907___ T__102.4__ \u00b0F; HR _90___ bpm; RR _20___ brpm\nUneventful recovery.\nSurgery - Canine Ovariohysterectomy (Spay), Cancelled due to mammary masses\nAntisedan(5mg/ml) 0.3ml IM @ 0854\nRx and/or Post-op recommendations: Recommend follow up with primary veterinarian regarding overall health, baseline bloodwork, and preventative care.\nEntering Tech Initials: __jp___\n8/5/2026\n08/05/26 17:50\nAddendum to pre-surgical exam. Patient was found to have multiple mammary masses during prep for surgery and anesthesia was reversed. Patient needs further diagnostics (FNA/cytology, histopathology, chest radiographs) and surgical removal of masses with NHP.\nDog is not suitable to PUFA/foster. Dog is not eligible for surgery at MCACC due to health. Dog needs outlet with NH Partner. Urgent medical NHO. Dog is at risk of humane euthanasia on 8/14/26 if no outlet is found by COB on 08/13/26. Dog may be humanely euthanized earlier if QOL declines.\n8/3/2026\n08/03/26 13:21\nNobivac Canine 1-DAPPv, manufactured by Merck, Serial number: 02120235A administered SQ, R lateral shoulder    jp/clm\n7/21/2026\n07/21/26 15:21\nBrief exam\nP is BAR; BCS 4.5/9\nEENT/Resp: Lenticular sclerosis and ectropion OU with no ocular discharge, blepharospasm, conjunctival hyperemia, or scleral hemorrhage noted OU. AU outer ear pinnas appear clean with no debris, erythema, or discharge. Nose clean and P eupneic with no nasal discharge.\nGI: great appetite; no stool in kennel\nDerm: Hair coat clean with no obvious lesions observed\nNeuro: Normal mentation\nMusc/Skel: Ambulatory x4 with no ataxia or lameness observed\nUrogenital: Intact female\nA:\n- Reported ocular discharge and scleral hemorrhage OD appears resolved at time of exam\n- Ectropion & Lenticular sclerosis OU\nP:\n- No treatment indicated at this time\n- Recheck if recurrence of ocular discharge, blepharospasm, redness, or scleral hemorrhage occurs\n7/20/2026\nRight eye appears droopy, red, and has ocular discharge\nVET TECHNICIAN EXAM (Date: 07/20/26 14:48) DUE TO VET CHECK REQUEST\nAttitude: BAR\nBCS: 4.5/9\nOcular Discharge / Squinting: White stringy d/c, wheeping and scleral hemmorhage OD\nCoughing/Sneezing:\nNasal Discharge - Mucoid / Serous: None observed at this time\nVomiting/Diarrhea: None observed at this time\nAppetite: Unknown observation during intake\nOther Notes of Concern / Observations:\njp\n7/20/2026\nNobivac Canine 1-DAPPv, manufactured by Merck, Serial number: _02120235A__ administered SQ, R lateral shoulder by _JP__.\nNobivac Intra-Trac3, manufactured by Merck, Serial number: _00541530B__ administered IN by _JP__.\nBravecto (fluralaner) for dogs >44-88lb (1000mg) 1 tube of topical solution applied in multiple spots between\nshoulder blades and along back by _SF__. Reapply after three months.\nNo tattoo or scar seen with adult mammary and vulvar development, consistent with unaltered female.\nConfirmed by: _JP___\nMylar Placed\nNo Chip Found\n7/20/2026\n07/20/26 14:30\nNobivac 3-Rabies, manufactured by Zoetis, Serial number: 871404 administered SQ, R lateral hip, by jp/sf, supervising veterinarian ST",
-        "in_kennel_behavior_rounds": "No In-Kennel Behavior Rounds Memos",
-        "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC East Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
-      },
-      "photo_file": "data/photos/A5168600.jpg"
-    },
     {
       "animal_id": "A5167231",
       "name": "FRESA",
@@ -1400,6 +1368,23 @@
       "token": "OTMw-NDY1-NTRB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDY1-NTRB",
       "raw": "Transferred A5169253 DUNKIN NHO PRIORITY: Behavior 6 years Neutered West Shelter, Wing Q - 054 08/12/26"
+    },
+    {
+      "animal_id": "A5168600",
+      "name": "Spinach",
+      "nho": true,
+      "reason": "Medical",
+      "age": "8 years",
+      "sex": "Female",
+      "shelter": "East",
+      "kennel": "Wing B - 117",
+      "deadline": "2026-08-13",
+      "days_left": -2,
+      "status": "TRANSFERRED",
+      "resolved": true,
+      "token": "OTMw-MzQ4-MDBB",
+      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MzQ4-MDBB",
+      "raw": "Transferred A5168600 SPINACH NHO PRIORITY: Medical 8 years Female East Shelter, Wing B - 117 08/13/26"
     },
     {
       "animal_id": "A5169084",
