@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T07:15:59.932035+00:00",
+  "fetched_at": "2026-08-17T08:01:58.456570+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 28,
@@ -18,11 +18,11 @@
       "kennel": "East Kennel, Wing S - 228",
       "deadline": "2026-08-16",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-MTc4-MDhB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MTc4-MDhB",
-      "raw": "A5167656 NORI NHO PRIORITY: Medical 3 years Spayed East Shelter, Wing S - 228 08/16/26",
+      "raw": "Transfer Pending A5167656 NORI NHO PRIORITY: Medical 3 years Spayed East Shelter, Wing S - 228 08/16/26",
       "breed": "BLUE/WHITE AM PIT BULL TER/MIX",
       "level": "GREEN",
       "weight": "56.0",
