@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-19T05:46:42.052473+00:00",
+  "fetched_at": "2026-08-19T07:05:14.061171+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 27,
-    "resolved": 14,
+    "resolved": 10,
     "parse_errors": 2
   },
   "active": [
@@ -873,74 +873,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A4656315",
-      "name": "Roxy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "10 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing L - 377",
-      "deadline": "2026-08-18",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "ODM4-MTM2-NzBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/ODM4-MTM2-NzBB",
-      "raw": "Transferred A4656315 ROXY NHO PRIORITY: Behavior 10 years Spayed West Shelter, Wing L - 377 08/18/26"
-    },
-    {
-      "animal_id": "A5164525",
-      "name": "Minnie",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing C - 072",
-      "deadline": "2026-08-18",
-      "days_left": -1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTI5-NjE0-NTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-NjE0-NTBB",
-      "raw": "Adopted A5164525 MINNIE PRIORITY: Behavior 2 years Spayed West Shelter, Wing C - 072 08/18/26"
-    },
-    {
-      "animal_id": "A5168053",
-      "name": "Lynx",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "5 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing B - 054",
-      "deadline": "2026-08-16",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-MjQ5-NTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MjQ5-NTRB",
-      "raw": "Transferred A5168053 LYNX NHO PRIORITY: Behavior 5 years Neutered West Shelter, Wing B - 054 08/16/26"
-    },
-    {
-      "animal_id": "A5169489",
-      "name": "Dani",
-      "nho": true,
-      "reason": "Medical",
-      "age": "5 months",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "Wing S - 229",
-      "deadline": "2026-08-18",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NTA4-MDJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTA4-MDJB",
-      "raw": "Transferred A5169489 DANI NHO PRIORITY: Medical 5 months Female East Shelter, Wing S - 229 08/18/26"
-    },
     {
       "animal_id": "A5165552",
       "name": "Andy",
