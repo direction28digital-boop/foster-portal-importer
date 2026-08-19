@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-19T01:52:48.093094+00:00",
+  "fetched_at": "2026-08-19T03:11:09.486420+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
-    "active": 28,
-    "resolved": 13,
+    "active": 27,
+    "resolved": 14,
     "parse_errors": 2
   },
   "active": [
@@ -870,38 +870,6 @@
         "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC West Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
       },
       "photo_file": "data/photos/A5168516.jpg"
-    },
-    {
-      "animal_id": "A5168591",
-      "name": "MUSHROOM",
-      "nho": false,
-      "reason": "Medical",
-      "age": "3Y 1M",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "West Kennel, Wing H - 253",
-      "deadline": "2026-08-25",
-      "days_left": 6,
-      "status": "ADOPTION PENDING",
-      "resolved": false,
-      "token": "OTMw-MzQ2-MzhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MzQ2-MzhB",
-      "raw": "Adoption Pending A5168591 MUSHROOM PRIORITY: Medical 3 years Spayed West Shelter, Wing H - 253 08/25/26",
-      "breed": "GRAY/WHITE AMER BULLDOG/AM PIT BULL TER",
-      "level": "GREEN",
-      "weight": "42.6",
-      "intake_date": "7/20/2026",
-      "due_out": "7/23/2026",
-      "deadline_date": "8/25/2026",
-      "sections": {
-        "intake": "7/20/2026\nDue Out\n7/23/2026\nDeadline Date\n8/25/2026\nRequirements\nNo requirements\nRecommendations\nFAMILY INTRODUCTION",
-        "memo": "8/18/2026\n08/18/26 13:43  Dog is at risk of humane euthanasia for unresolving CIRDC on 8/26/26 if no resolution in clinical signs or if no outlet is found by COB on 8/25/26 but may be humanely euthanized earlier if QOL declines.  nhilde\nIntake\nNo memos",
-        "evaluation_comments": "8/9/2026\nSolicited attentions, Playful, Easy to pull from kennel, Easy to return to kennel, Not interested in toys, Takes treats nicely, Easy/Loose Leash, Calm, Ignored dogs when walking past kennels, loving and affectionate girl. sat on my lap the whole time and just wanted to be petted. gave kisses. calm and mellow girl\n8/6/2026\nDog did not eat. Normal stool in kennel, soliciting attention at kennel door. BAR\n8/3/2026\nSoft and wiggly, easy leashing, allowed all handling and vaccine booster with light restraint, easy kennel return, easy leash removal.\n8/2/2026\ndid not eat soliciting attention, tail wagging, soft eyes\n7/30/2026\nSolicited attentions, Easy to pull from kennel, Easy to return to kennel, Takes treats nicely, Easy/Loose Leash, Ignored dogs when walking past kennels, Sit, Walked well to yard. Allowed pets, accepted treats gently, then dropped. Paws in lap, soliciting attention and allowing all pets. Very sweet and engaging. Walked well back to kennel.\n7/22/2026\nSoft, wiggly body at front of kennel. Came forward to solicit attentions thru kennel door. Placing \"GREEN\" based on intake notes and kennel presence.\n7/20/2026\nseeks attention, wagging tail, walked on leash, allowed petting, no issues\n7/20/2026\nwalks on leash, soft wiggly body, tail wagging, allowed all petting, allowed all handling, no reaction to other dogs in passing, nervous to enter kennel at first but no issue kenneling",
-        "medical_treatments": "8/18/2026\n08/18/26 13:38\nAbbreviated exam d/t contagious upper respiratory diseases (ie. CDV) at MCACC.\nBAR, BCS 5/9.  OPHTHO - OU no ocular discharge or blepharospasm.  RESP \u2013 eupnic; coughing; sneezing; bilateral mixed thin mucoid/serous nasal discharge.  GI - good appetite.\nA:  Ddx. CIRDC - unresolved.\nP:  1.  Doxycycline (100mg tablet) - 2 tablets PO SID x 7 days.\n2.  Enrofloxacin (68mg tablet) - 1.5 tablets PO SID x 7 days.\n3.  Recheck for CIRDC in 7 days.\n4.  Dog is at risk of humane euthanasia for unresolving CIRDC on 8/26/26 if no resolution in clinical signs or if no outlet is found by COB on 8/25/26 but may be humanely euthanized earlier if QOL declines.\nnhilde\n8/11/2026\n08/11/26 14:51\nBAR.\nSeromucoid nasal exudate and slight cough observed.\nHas eaten most of food left in kennel.\nContinue doxycycline 200mg po sid x 7 days then recheck.\n8/10/2026\n08/10/26 11:23\nP is BAR; solicits attention at front of kennel. Poor appetite to inappetent; not interested in treats offered and poor intake of kibble. Mild serous nasal discharge and sneezing; no coughing noted today.\nA:\n- CIRDC \u2013 unresolved\n- Inappetence/poor appetite likely secondary to CIRDC\nP:\n- Add canned food to meals to encourage appetite\n- Rx: LRS 400 mL SQ SID x 3 days\n- Continue CIRDC treatment as prescribed and recheck as scheduled\n- Medically okay to PUFA\n8/10/2026\n08/10/26 09:51\nk9 did not eat any food offered over night (wet and dry) disinterested in all treats offered. Due to poor appetite gave liquid and injectable medication.\n2.0mL Doxycycline 100mg/mL given PO once\n1.02mL Enrofloxacin 100mg/mL given SQ once\nJNR\n8/8/2026\n08/08/26 13:23\nK9 picked the pills out of all treats offered. Due to being picky, gave liquid meds:\nDoxycycline 100mg/ml: Gave 2mls PO once.\nKLB\n8/8/2026\n08/08/26 11:14\nNoted on kennel walkthrough. Patient is QAR, solicits attention. No ocular discharge. Moderate mucoid nasal discharge with crusting on nares. No coughing. No sneezing. Normal respiratory rate with normal effort.\nPLAN:\n- enrofloxacin: 102mg PO q24h x 5d\n- continue doxycycline\n- add wet food to diet\n8/3/2026\n08/03/26 10:25 Nobivac Canine 1-DAPPv, manufactured by Merck, Serial number: _02121B42A_ acdministered SQ, R lateral shoulder by _PU_. TEA\n7/28/2026\nPre-operative Examination, performed by: ___jr_\nPre-op tech: _cd___\nT: __101.3__\u00b0F\nHR: _100__bpm\nRR: __panting_brpm\nGeneral Appearance: BAR\nRespiratory: ABN; coughing\nCardio: NSF\nRepro/Urogenital: NSF\nDerm: NSF\nEars: NSF\nEyes: NSF\nNervous: NSF\nM/S: NSF\nDental: NSF\nGI: NSF\nL/N: NSF\nBCS: _5_ /9\nDental grade: _1_ /4\nObservations during pre-op/procedure: n/a\nTreatments:\nPyrantel pamoate (50 mg/ml) ___0_ ml PO administered once pre-op.\nCarprofen (50 mg/ml) __1.7__ ml SQ administered once pre-op.\nMicrochip Implanted SQ, placement confirmed via microchip scanner. Please see Microchip Entry for number.\nInduction & Prep Tech Initials__cd/gr__\nAnesthesia:\nInduced with TTDex (5 ml cake 100 mg/ml Telazol to 2.5 ml 10 mg/ml Butorphanol + 2.5 ml 0.50 mg/ml\nDexmedetomidine) ___0.4_ ml IM at _1046___\nIntubated at __1059__ with ___10.5_ -size ET tube\nMaintained on Isoflurane and Oxygen.\nAnesthesia End Time: _1113___\nAnesthesia Tech Initials: __sw___ Recovery Tech Initials: __red____\nMonitoring:\nTime: _1059___ T__99.9__ \u00b0F; HR __90__ bpm; RR __10__ brpm\nTime: __1114__ T__101.7__ \u00b0F; HR __101__ bpm; RR _10___ brpm\nEnd Recovery Time: _1122___ T__102.8__ \u00b0F; HR __90__ bpm; RR 30___ brpm\nUneventful recovery.\nSurgery - Canine Ovariohysterectomy (Spay), performed by: ___jr__\nVentral midline abdominal incision made with no. 15 blade. Single ligation of ovarian pedicles and single ligation of uterine stump with strangle knots using _0___ Webmax. Modified 3-layer closure: Body wall closed with cruciate sutures using _0___ Webmax; SQ layer closed with simple continuous sutures, continuing into continuous intradermal using __0__ Webmax. Green tattoo etched. Applied tissue adhesive over abdominal incision and tattoo.\nRx and/or Post-op recommendations: Recommend follow up with primary veterinarian regarding overall health, baseline bloodwork, and preventative care.\n- Doxycycline (100 mg) 2 tabs PO SID x 14 days\nEntering Tech Initials: __dd___\n7/20/2026\nNobivac 3-Rabies, manufactured by Zoetis, Serial number 859498: administered SQ, R lateral hip, by _EC_, supervising veterinarian ST.\nNobivac Canine 1-DAPPv, manufactured by Merck, Serial number: 02121B42A administered SQ, R lateral shoulder by  __EC__\nNobivac Intra-Trac3, manufactured by Merck, Serial number: 00541530C administered IN by _EC__\nProvecta Advanced for dogs 21-55lbs (2.5ml) 1 tube of topical solution applied between shoulder blades by __GB_. Reapply after one month.\nFemale: No tattoo or scar seen with adult mammary and vulvar development, consistent with unaltered female. Confirmed by: __GB__\nMylar placed by ADR",
-        "in_kennel_behavior_rounds": "7/30/2026\nObserved to be showing significant signs of fear, anxiety, and stress while in kennel. Adding to Daily Behavior Rounds to monitor behavior.\nWEEK 1\nDay 1 7/30/26 (Inside, 8AM) Fence Fighting/Reactivity to Neighboring Dogs 3, Jumping/Leaping 3\nDay 2 7/31/26 (Inside 1pm) Overall Body Language 0, Demand Barking 2\nDay 3 8/1/26 (Inside, 10:30AM) Overall Body Language 0\nDay 4 8/2/26 (Inside d/t heat, 12:30PM) Overall Body Language 0\nDay 5 8/3/26 (inside 1PM) Overall body language 0\nDay 6 8/4/26 (Outside, 6:50AM, Tree Trimming): Behavioral Absence / Disengagement 1\nDay 7 8/5/26 (Inside 1pm) Overall Body Language 0\nWeekly FAS Average (3+2+0+0+0+1+0)/7=.9\nDog has shown improvement. Removing from behavior rounds at this time.",
-        "bite_history": "No recorded bites\nPull Animal Request\nGroup Passcode\n*\nComment\nAdditional Help\nImportant:\nDogs marked as \u201cNHO Priority\u201d can only be pulled by a New Hope Partner (NHP). New Hope Partners must\nselect the animal through the portal no later than 5:30am the day after the animal\u2019s deadline date.\nNo extensions will be given.\nAnimals must be picked up by the NHP within 24 hours after the Pull date or prior to the close of business the day after the animal's deadline date, whichever comes sooner\nOnce a pull request has been made, the NHP will be sent a confirmation email. Only an authorized New Hope Representative may pick up the animal.\nImportant:\nIf you forget your passcode or have other technical issues using the automated system, email\nACC Alt Placement\nand communicate which animal should be pulled under your NH Group. You will also need to communicate the reason why you were unable to use the automated\nsystem so we can address it.  Any Priority Placement pull request from a Non-New Hope Partner or extension request sent to\nACC Alt Placement will not receive a response.\nNon-New Hope Partners selecting adoptable animals from the Portal must complete the adoption prior to the close of business on the animal\u2019s deadline\ndate\nNo extensions will be made.\nSend Request\nClose\nOur Shelters\nMCACC West Shelter\nClose\n2500 S. 27th Ave, Phoenix 85009\n1920 S. Lewis, Mesa 85210\n4380 N Miller Rd, Scottsdale, AZ 85251\nMain Line:\n602-506-7387\nUsing this site\nSitemap\nAccessibility\nCopyright Notices\nSite Terms & Privacy Policy\nHome\nLink to Maricopa County's Facebook'\nLink to Maricopa County's Twitter'\nLink to Maricopa County's Instagram'\nLink to Maricopa County's Youtube'\nResidents\nContact Us\nBoard Meetings and Agendas\nOrganizational Chart\nVolunteer/Intern Opportunities\nRequired Postings\nVisitors\nAbout Maricopa County\nQuick Facts\nEconomic Development\nWorking for Us\nNewsroom"
-      },
-      "photo_file": "data/photos/A5168591.jpg"
     }
   ],
   "resolved": [
@@ -1040,6 +1008,23 @@
       "token": "OTMw-MTc4-MDhB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MTc4-MDhB",
       "raw": "Transferred A5167656 NORI NHO PRIORITY: Medical 3 years Spayed East Shelter, Wing S - 228 08/16/26"
+    },
+    {
+      "animal_id": "A5168591",
+      "name": "Mouse",
+      "nho": false,
+      "reason": "Medical",
+      "age": "3 years",
+      "sex": "Spayed",
+      "shelter": "West",
+      "kennel": "Wing H - 253",
+      "deadline": "2026-08-25",
+      "days_left": 6,
+      "status": "ADOPTED",
+      "resolved": true,
+      "token": "OTMw-MzQ2-MzhB",
+      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MzQ2-MzhB",
+      "raw": "Adopted A5168591 MOUSE PRIORITY: Medical 3 years Spayed West Shelter, Wing H - 253 08/25/26"
     },
     {
       "animal_id": "A5169183",
