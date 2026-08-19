@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T03:11:09.486420+00:00",
+  "fetched_at": "2026-08-19T03:58:24.661078+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 27,
@@ -114,11 +114,11 @@
       "kennel": "East Kennel, Wing S - 222",
       "deadline": "2026-08-18",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NTMx-NDJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTMx-NDJB",
-      "raw": "A5169619 DORIS NHO PRIORITY: Behavior 1 year Female East Shelter, Wing S - 222 08/18/26",
+      "raw": "Transfer Pending A5169619 DORIS NHO PRIORITY: Behavior 1 year Female East Shelter, Wing S - 222 08/18/26",
       "breed": "BLACK/BROWN SIBERIAN HUSKY",
       "level": "ORANGE",
       "weight": "47.6",
