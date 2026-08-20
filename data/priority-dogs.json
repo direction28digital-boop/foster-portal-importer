@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T04:52:49.638356+00:00",
+  "fetched_at": "2026-08-20T05:46:53.881504+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 35,
@@ -306,11 +306,11 @@
       "kennel": "West Kennel, Wing F - 177",
       "deadline": "2026-08-19",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NTQy-NzZB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTQy-NzZB",
-      "raw": "A5169682 VIOLA NHO PRIORITY: Behavior 2 years Female West Shelter, Wing F - 177 08/19/26",
+      "raw": "Transfer Pending A5169682 VIOLA NHO PRIORITY: Behavior 2 years Female West Shelter, Wing F - 177 08/19/26",
       "breed": "BROWN/WHITE AMER BULLDOG",
       "level": "ORANGE",
       "weight": "74.8",
