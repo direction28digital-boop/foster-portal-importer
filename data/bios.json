@@ -1936,5 +1936,101 @@
     ],
     "story": "Camellia is a 37-pound brindle girl who knows how to ask for what she wants—a soft lean, paws up, tail going. She's been at West for five weeks with a persistent respiratory issue that hasn't cleared, and she's barely touching her food. The clock is running.",
     "needs": "A foster who can get her out of the shelter and into a quiet place to breathe, eat, and rest. She's flagged as a medical priority with seven days left, so we need someone now."
+  },
+  "A5169863": {
+    "animal_id": "A5169863",
+    "name": "Biscuit",
+    "age": "3 years",
+    "breed": "White Maltese",
+    "location": "West Shelter, Wing X - 522",
+    "bullets": [
+      "Found in a park, allowed gentle handling from his finder and their young children",
+      "Knows sit, was kept indoors as a free-roaming house dog by the person who found him",
+      "In the shelter he shuts down—freezes in place, trembles, won't eat, defecates from fear",
+      "So frightened he tries to escape into adjacent kennels when handlers approach",
+      "Allows all physical handling without aggression even when terrified"
+    ],
+    "story": "Biscuit is a thirteen-pound Maltese who came in gentle enough to sit with toddlers, and now he is so afraid in the shelter that he cannot move. He pancakes, he trembles, he turns his head away, and sometimes his body gives out entirely. This is what terror looks like in a small white dog who has never shown a moment of aggression but has run out of ability to cope.",
+    "needs": "Biscuit is New Hope Only and must be pulled by a partner rescue no later than close of business August 25th. He needs an experienced foster who understands shutdown, can give him time and space without pressure, and will not mistake his frozenness for calm. This is not a beginner's dog."
+  },
+  "A5166134": {
+    "animal_id": "A5166134",
+    "name": "Dougie",
+    "age": "2 years 2 months",
+    "breed": "Brindle Pit Bull",
+    "location": "West Shelter, Wing E - 147",
+    "bullets": [
+      "Pulls hard on leash but walks willingly; knows sit and kennel",
+      "Soft and wiggly with handlers, leans in for pets, takes treats gently, rolls over for belly rubs",
+      "Friendly at the dog park—sniffs, tries to play, no aggression noted",
+      "Loves attention, mouthy during play, jumps up when excited",
+      "Returned to the shelter after two weeks because he chewed baseboards and walls, broke out of his crate, and wasn't housetrained"
+    ],
+    "story": "Dougie is a young, affectionate dog with a high motor and a history that tells the truth: he cannot be left alone. His previous adopter brought him back after two weeks because the separation anxiety was more than they could handle. He needs someone who understands that this won't resolve in days or weeks, and who has the time, the setup, and the commitment to work through it.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Dougie needs a foster with separation anxiety experience, a plan for management and slow conditioning, and no expectation that he'll be housetrained or crate-comfortable anytime soon. New Hope Only—a partner rescue must pull him by end of business August 25."
+  },
+  "A5169838": {
+    "animal_id": "A5169838",
+    "name": "Jingle",
+    "age": "2 years",
+    "breed": "Chihuahua",
+    "location": "West Shelter, Wing K - 437",
+    "bullets": [
+      "Came in with five other dogs, found together",
+      "In the small yard, paced the fence with his tail tucked, then slowly laid across a handler's lap and let himself be petted",
+      "Startles easily and air-snapped once when someone reached too fast, but takes treats gently and wraps his paws around a handler's arm",
+      "Trembles through most handling but is beginning to show moments of relaxation",
+      "Flinches away from hands coming over his head"
+    ],
+    "story": "Jingle is a fifteen-pound terrier shut down by fear. He came in with a group of dogs two weeks ago and the shelter is too much for him. Under the shaking, there is a dog who will lean into someone who moves slowly and speaks quietly.",
+    "needs": "This is not a beginner's dog. Jingle needs an experienced foster who understands fear-based behavior and will not rush him. He must be pulled by a New Hope partner rescue by end of business August 25."
+  },
+  "A5167708": {
+    "animal_id": "A5167708",
+    "name": "Picasso",
+    "age": "6 years 1 months",
+    "breed": "Brown Pit Bull Terrier",
+    "location": "West Shelter, Wing C - 074",
+    "bullets": [
+      "Came in as a stray with an ear wound and crusty eyes, found wandering 67th Avenue and Encanto",
+      "Walks on leash, explores calmly with his nose to the ground, accepts gentle petting",
+      "When aroused by treats or excitement, he bites at pouches, clothing, hands—fast enough to leave marks",
+      "Sits on cue, leans in for scratches, mostly soft and wiggly when not overstimulated",
+      "Struggles to regulate himself when he wants something, and shelter life is making it worse"
+    ],
+    "story": "Picasso is a six-year-old brown pit bull who showed up alone in July with an injured ear. He knows how to walk nicely and take treats gently when he's calm, but when he gets worked up he loses his brakes—biting at treat bags, mouthing hands and clothes hard enough to leave marks, demand-barking and hopping. He's not mean. He's dysregulated, and the kennel is winding him tighter every day.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Picasso needs an experienced handler who understands arousal and can teach him to settle before he tips over the edge, in a quiet home without other animals or young children. He is New Hope Only, which means he must be pulled by a registered rescue partner by close of business August 25th."
+  },
+  "A5170060": {
+    "animal_id": "A5170060",
+    "name": "Timmy",
+    "age": "3 years",
+    "breed": "Alaskan",
+    "location": "West Shelter, Wing E - 138",
+    "bullets": [
+      "Lived inside for three years with his owner, housetrained, knows sit and stay, good on leash",
+      "Owner described him as friendly with kids and dogs at the park and visitors' dogs at home",
+      "Shuts down hard in the shelter: won't take treats, avoids handling, flinches when touched, keeps distance from people even in the yard",
+      "Ears pinned, tail tucked, lip licking, heavy panting when handlers approach or adjust his leash",
+      "Ducks away from leash placement, will not enter kennel on his own, maintains arm's length even when called"
+    ],
+    "story": "Timmy spent three years in a home before life changes brought him here, and the shelter has broken something in him. He is terrified. The friendly dog his owner described is nowhere in sight right now, just a husky mix trying to disappear into himself.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Timmy needs an experienced foster who understands fear and will not rush him, in a calm home without chaos. He is New Hope Only and must be pulled by a partner rescue by close of business August 25th."
+  },
+  "A4510633": {
+    "animal_id": "A4510633",
+    "name": "Patrick",
+    "age": "7 years 8 months",
+    "breed": "Pit Bull Terrier",
+    "location": "East Shelter, Wing A - 049",
+    "bullets": [
+      "Owned for 6 years, surrendered when family had young children and Patrick struggled with unpredictability around infants—lunged at a toddler once but never bit",
+      "Kennel-trained, potty-trained, knows sit/stay/shake, likes long walks and car rides, loves cuddles and chew toys with adults and older kids",
+      "Walked parallel with another shelter dog without issue, goes into zoomies in play yard, hesitant to return to kennel but allows being carried",
+      "Pulls on leash, walks best in a harness, ignores other dogs in kennels, takes treats nicely from handlers",
+      "Deadline August 27, listed as medical priority with 6 days left"
+    ],
+    "story": "Patrick spent six years with one family before they surrendered him when they had babies and couldn't manage the risk. He's affectionate with older people, playful, trained, and house-mannered. He needs a home that understands what happened and won't put him in that position again.",
+    "needs": "Adults only or older children 12+, no young kids. Only dog in the home. This is not a beginner's dog and we will not pretend otherwise. Patient handler who can work with leash pulling and give him the structure he's used to."
   }
 }
