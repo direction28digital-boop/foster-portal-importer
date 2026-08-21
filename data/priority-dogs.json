@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T11:41:15.682864+00:00",
+  "fetched_at": "2026-08-21T13:10:35.005507+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 33,
@@ -143,14 +143,14 @@
       "age": "2Y 0M",
       "sex": "Male",
       "shelter": "West",
-      "kennel": "West Kennel, Wing S - 331",
+      "kennel": "West Kennel, Wing Q - 031",
       "deadline": "2026-08-23",
       "days_left": 2,
       "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NTgz-OThB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTgz-OThB",
-      "raw": "Transfer Pending A5169911 BIG MAC NHO PRIORITY: Behavior 2 years Male West Shelter, Wing S - 331 08/23/26",
+      "raw": "Transfer Pending A5169911 BIG MAC NHO PRIORITY: Behavior 2 years Male West Shelter, Wing Q - 031 08/23/26",
       "breed": "BROWN FRENCH BULLDOG",
       "level": "ORANGE",
       "weight": "29.4",
