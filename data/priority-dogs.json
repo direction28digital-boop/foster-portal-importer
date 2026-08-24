@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T13:12:46.648577+00:00",
+  "fetched_at": "2026-08-24T14:02:42.817176+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 31,
@@ -591,14 +591,14 @@
       "age": "3Y 0M",
       "sex": "Male",
       "shelter": "West",
-      "kennel": "West Kennel, Wing X - 522",
+      "kennel": "West Kennel, Wing Q - 029",
       "deadline": "2026-08-25",
       "days_left": 1,
       "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-NTc1-MzRB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTc1-MzRB",
-      "raw": "Transfer Pending A5169863 BISCUIT NHO PRIORITY: Behavior 3 years Male West Shelter, Wing X - 522 08/25/26",
+      "raw": "Transfer Pending A5169863 BISCUIT NHO PRIORITY: Behavior 3 years Male West Shelter, Wing Q - 029 08/25/26",
       "breed": "WHITE MALTESE",
       "level": "ORANGE",
       "weight": "13.6",
