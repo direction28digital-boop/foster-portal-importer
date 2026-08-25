@@ -2164,5 +2164,66 @@
     ],
     "story": "He walked in like he'd been walking a long time. Old, heavy on his feet, eyes clouded, but still friendly enough to greet the people who found him. Nobody came looking. He's ten, medically fragile, and running out of time.",
     "needs": "A quiet adult home with someone who understands senior dogs and veterinary expense. He is New Hope Only and must be pulled by a qualified partner rescue no later than the morning of August 31."
+  },
+  "A4921617": {
+    "animal_id": "A4921617",
+    "name": "Max",
+    "age": "14 years",
+    "breed": "Welsh Corgi",
+    "location": "West Shelter, Wing K - 502",
+    "bullets": [
+      "Fourteen-year-old corgi mix who walked on leash and allowed petting and handling when staff worked with him",
+      "Lay quietly in his kennel, soft body during exam, though he showed some nervousness and didn't take treats",
+      "Nineteen pounds, white and black, senior dog with a heart murmur noted in his medical record"
+    ],
+    "story": "Max is an elderly corgi mix who ended up at the shelter at fourteen years old. He's gentle with people and cooperated with everything handlers asked of him, though the stress shows—he's stiff, quiet, and won't eat treats in the kennel.",
+    "needs": "Max needs a partner rescue to pull him by end of business August 26th. He needs a home that understands senior dogs with medical needs, can go slow with introductions, and can give him the quiet decompression time an old dog in a shelter deserves."
+  },
+  "A5165899": {
+    "animal_id": "A5165899",
+    "name": "Mayor West",
+    "age": "4 years 3 months",
+    "breed": "Pit Bull",
+    "location": "West Shelter, Wing S - 310",
+    "bullets": [
+      "Found as a stray and spent one night with a finder who reported he was friendly with people, energetic, and jumped up for attention.",
+      "Pulls hard on leash and reacted to other dogs while walking, barking and pulling toward them.",
+      "In the shelter yard, explored on his own, stood near handlers but did not seek attention, allowed petting, and took treats gently.",
+      "Repeatedly reacted when staff walked past his kennel with other dogs—hackles raised, alarm barking, running the fence line.",
+      "Has upper airway disease that needs treatment."
+    ],
+    "story": "Mayor West came in as a stray with no known history. He is friendly and energetic with people but shows clear reactivity to other dogs—barking, pulling, raised hackles. In the yard he was more independent than social, checking in occasionally but mostly doing his own thing. He needs medical care for an upper airway condition.",
+    "needs": "Only dog. No young children. Someone with experience managing leash reactivity and who understands that this will take time and training work. Mayor West is New Hope Only and must be pulled by a partner rescue by end of business August 27."
+  },
+  "A5170455": {
+    "animal_id": "A5170455",
+    "name": "Dog A5170455",
+    "age": "3 years",
+    "breed": "Gray Pit Bull",
+    "location": "West Shelter, Wing D - 112",
+    "bullets": [
+      "Found as a stray with severe skin disease and hair loss across her body, but still gentle enough to allow petting from a seven-year-old.",
+      "Walks well on leash, calm and quiet in the kennel, takes treats gently, allowed all handling at intake.",
+      "Lived one day with a finder who reported she was dismissive of the other dog in the home but not aggressive, ate her food fast while watching the other dog.",
+      "Staff saw her relaxed at the front of her kennel, tail tucked at intake but allowing touch and care."
+    ],
+    "story": "This three-year-old pit bull mix came in as a stray with extensive skin disease that will need dedicated treatment. Underneath the medical crisis is a dog who has stayed gentle and quiet through all of it.",
+    "needs": "A New Hope Partner rescue must pull her by end of business August 31st. She needs a foster prepared to manage ongoing skin treatment and a home that can go slow with a dog recovering her health and her confidence."
+  },
+  "A4112190": {
+    "animal_id": "A4112190",
+    "name": "Samson",
+    "age": "11 years",
+    "breed": "Tricolor Pit Bull",
+    "location": "West Shelter, Wing C - 077",
+    "bullets": [
+      "Knows sit and shake, takes treats (sometimes grabby), walks on leash with some pull",
+      "Plays fetch and carries toys around the yard with a wagging tail",
+      "Seeks attention, solicits petting, allowed all handling from volunteers",
+      "Calm around other dogs when walking past kennels",
+      "Eleven years old, house-trained when kept inside, seventy-three pounds"
+    ],
+    "story": "Samson has been bouncing between owners and back to the shelter since May. He's an eleven-year-old who still plays like he's got years ahead of him—fetching, goofing around with toys, wagging through it all. There was a dog fight in a front yard during one brief placement, and the shelter recommends he be the only dog.",
+    "needs": "A home where he can be the only dog, with someone who has the time to actually keep him. He has six days left and is listed as a medical priority."
   }
 }
