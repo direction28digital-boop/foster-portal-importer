@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T13:16:21.866505+00:00",
+  "fetched_at": "2026-08-26T14:06:11.512665+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 24,
@@ -82,11 +82,11 @@
       "kennel": "West Kennel, Wing E - 147",
       "deadline": "2026-08-25",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTI5-OTA0-MTJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-OTA0-MTJB",
-      "raw": "A5166134 DOUGIE NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing E - 147 08/25/26",
+      "raw": "Transfer Pending A5166134 DOUGIE NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing E - 147 08/25/26",
       "breed": "BRINDLE AM PIT BULL TER/MIX",
       "level": "ORANGE",
       "weight": "46.4",
