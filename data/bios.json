@@ -2771,5 +2771,51 @@
     ],
     "story": "Honey Bun is a three-year-old pit mix who spent her first week at the shelter so shut down she wouldn't eat or walk, then woke up hilarious—bouncy and goofy and eager to be near people. She's been there six weeks now and has a respiratory infection that isn't clearing, which puts her at medical deadline in eleven days.",
     "needs": "A foster home with no other pets for at least two weeks while she settles, then slow supervised introductions if there are resident dogs. She'll need leash work and a family introduction plan, and a foster who can give her the quiet she needs to finish healing. Medical priority—she leaves with treatment in progress."
+  },
+  "A5170414": {
+    "animal_id": "A5170414",
+    "name": "Becky",
+    "age": "7 years",
+    "breed": "Belg",
+    "location": "West Shelter, Wing G - 234",
+    "bullets": [
+      "Came in with another dog on August 22, intake circumstances unknown",
+      "Showed tension in her kennel, but softened and sat quietly for petting once in a yard with a patient handler",
+      "Alarm-barked and air-snapped at a second person approaching, wary even after initial softening",
+      "Walked on leash with pulling and some environmental startle, tucked tail loosening up away from other dogs"
+    ],
+    "story": "Becky is a seven-year-old shepherd mix carrying fear she can't quite set down. She warmed to one handler in the yard—sitting close, accepting touch all over, following with soft eyes—but a second person triggered alarm and a snap at the fence. She needs someone who understands that fear and reactivity are not the same as aggression, but they are still serious.",
+    "needs": "Experienced handler only, no other dogs, slow introductions to new people, and space to decompress without pressure. This is not a beginner's dog and we will not pretend otherwise. New Hope Only—Becky must be pulled by a registered rescue partner by September 2."
+  },
+  "A5170154": {
+    "animal_id": "A5170154",
+    "name": "Orson",
+    "age": "5 years",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing F - 199",
+    "bullets": [
+      "Knows sit, takes treats gently, comes when called",
+      "Soft and happy approaching handlers in his kennel, accepts petting",
+      "Pulls hard on leash, fixates on other dogs—stiffens, stares, chuffs, low growls, won't disengage without handler intervention",
+      "Resisted returning to his kennel after seeing the dog next door, began pulling hard toward that kennel with stiff body",
+      "Paces and marks in play yard, tense body, takes time to settle before approaching handler"
+    ],
+    "story": "Orson is a big, gentle-mouthed dog who knows basic commands and loves human attention. But he is also a dog whose reactivity to other dogs is escalating in the kennel, and the stress of confinement is showing in every movement—flagged tail, wide eyes, hard pulls, fixation he cannot break on his own. He needs out of this building.",
+    "needs": "Orson must be pulled by a New Hope Partner rescue by close of business September 2nd. He needs an experienced handler and a home with no other dogs. This is not a beginner's dog and we will not pretend otherwise."
+  },
+  "A5169324": {
+    "animal_id": "A5169324",
+    "name": "Mimosa",
+    "age": "2 years",
+    "breed": "Pit Bull",
+    "location": "West Shelter, Wing I - 263",
+    "bullets": [
+      "Found wandering with another dog, friendly and playful with her companion, allowed all handling from the stranger who picked her up",
+      "Timid in the shelter but softens when handlers give her time—eventually solicits attention, takes treats nicely, lets people pet her head and body",
+      "Lived briefly with young kids and was gentle and friendly with them, indifferent to cats, hasn't learned leash skills yet",
+      "Has had a persistent respiratory infection for weeks and is listed as urgent medical with ten days left"
+    ],
+    "story": "Mimosa is a two-year-old pocket pit who came in scared and shut down after being found on the street, but she's showing more of herself as the days go on—wiggly when you talk soft, food motivated, sweet under the fear. She needs out now, both because she's running out of time and because she's been sick in there for a month.",
+    "needs": "A quiet home with someone who understands a shy dog needs space to decompress, plus commitment to follow-up vet care for her respiratory issue and patience with leash training from scratch. She'll need slow introductions to everything and everyone until she finds her footing."
   }
 }
