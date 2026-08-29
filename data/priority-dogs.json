@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-29T02:11:17.432908+00:00",
+  "fetched_at": "2026-08-29T09:02:27.737055+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 35,
-    "resolved": 12,
-    "parse_errors": 1
+    "resolved": 8,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -1130,74 +1130,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5157368",
-      "name": "Kray",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 030",
-      "deadline": "2026-08-24",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTI4-MzI2-MjRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI4-MzI2-MjRB",
-      "raw": "Transferred A5157368 KRAY NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing Q - 030 08/24/26"
-    },
-    {
-      "animal_id": "A5166134",
-      "name": "Dougie",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing E - 147",
-      "deadline": "2026-08-25",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTI5-OTA0-MTJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-OTA0-MTJB",
-      "raw": "Transferred A5166134 DOUGIE NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing E - 147 08/25/26"
-    },
-    {
-      "animal_id": "A5169777",
-      "name": "Courage",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing Q - 378",
-      "deadline": "2026-08-24",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NTU5-ODZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTU5-ODZB",
-      "raw": "Transferred A5169777 COURAGE NHO PRIORITY: Behavior 3 years Neutered East Shelter, Wing Q - 378 08/24/26"
-    },
-    {
-      "animal_id": "A5170202",
-      "name": "Randall",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "5 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing Q - 380",
-      "deadline": "2026-08-30",
-      "days_left": 1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjM2-MzZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjM2-MzZB",
-      "raw": "Transferred A5170202 RANDALL NHO PRIORITY: Behavior 5 years Neutered East Shelter, Wing Q - 380 08/30/26"
-    },
-    {
       "animal_id": "A4921617",
       "name": "Max",
       "nho": true,
@@ -1334,10 +1266,5 @@
       "raw": "Transferred A5170534 EDDIE NHO PRIORITY: Medical 6 years Male East Shelter, Wing V - 315 09/01/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Foster A5157016 DOLLY PRIORITY: Behavior 2 years Spayed West Shelter, Wing F - 161 08/30/26",
-      "token": "OTI4-MjYy-ODhB"
-    }
-  ]
+  "parse_errors": []
 }
