@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-30T06:39:05.049022+00:00",
+  "fetched_at": "2026-08-30T12:53:35.162559+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 37,
-    "resolved": 8,
+    "resolved": 4,
     "parse_errors": 0
   },
   "active": [
@@ -1193,74 +1193,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A4921617",
-      "name": "Max",
-      "nho": true,
-      "reason": "Medical",
-      "age": "14 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing K - 502",
-      "deadline": "2026-08-26",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "ODg1-ODkx-MDZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/ODg1-ODkx-MDZB",
-      "raw": "Transferred A4921617 MAX NHO PRIORITY: Medical 14 years Neutered West Shelter, Wing K - 502 08/26/26"
-    },
-    {
-      "animal_id": "A5167708",
-      "name": "Picasso",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "6 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing C - 074",
-      "deadline": "2026-08-25",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-MTg3-NDRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MTg3-NDRB",
-      "raw": "Transferred A5167708 PICASSO NHO PRIORITY: Behavior 6 years Neutered West Shelter, Wing C - 074 08/25/26"
-    },
-    {
-      "animal_id": "A5170060",
-      "name": "Timmy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 033",
-      "deadline": "2026-08-25",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjEw-ODBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjEw-ODBB",
-      "raw": "Transferred A5170060 TIMMY NHO PRIORITY: Behavior 3 years Neutered West Shelter, Wing Q - 033 08/25/26"
-    },
-    {
-      "animal_id": "A5170118",
-      "name": "Acorn",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 032",
-      "deadline": "2026-08-26",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjIx-MjRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjIx-MjRB",
-      "raw": "Transferred A5170118 ACORN NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing Q - 032 08/26/26"
-    },
     {
       "animal_id": "A5169984",
       "name": "Colton",
