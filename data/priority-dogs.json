@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-02T04:31:34.404454+00:00",
+  "fetched_at": "2026-09-02T09:36:57.307679+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 25,
-    "resolved": 10,
+    "resolved": 9,
     "parse_errors": 3
   },
   "active": [
@@ -809,23 +809,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5170191",
-      "name": "Cocoa",
-      "nho": false,
-      "reason": "Medical",
-      "age": "7 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing A - 082",
-      "deadline": "2026-09-03",
-      "days_left": 1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-NjM0-MzhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjM0-MzhB",
-      "raw": "Adopted A5170191 COCOA PRIORITY: Medical 7 years Neutered East Shelter, Wing A - 082 09/03/26"
-    },
     {
       "animal_id": "A4112190",
       "name": "Samson",
