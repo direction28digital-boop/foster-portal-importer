@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-03T04:34:50.853288+00:00",
+  "fetched_at": "2026-09-03T09:48:24.614319+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 25,
-    "resolved": 15,
-    "parse_errors": 3
+    "resolved": 8,
+    "parse_errors": 1
   },
   "active": [
     {
@@ -178,11 +178,11 @@
       "kennel": "West Kennel, Wing E - 137",
       "deadline": "2026-09-02",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-Njc5-NzRB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Njc5-NzRB",
-      "raw": "A5170443 SINCLAIR NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing E - 137 09/02/26",
+      "raw": "Transfer Pending A5170443 SINCLAIR NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing E - 137 09/02/26",
       "breed": "GRAY/BROWN QUEENSLAND HEEL",
       "level": "ORANGE",
       "weight": "33.0",
@@ -810,125 +810,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A4112190",
-      "name": "Samson",
-      "nho": false,
-      "reason": "Medical",
-      "age": "11 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing C - 077",
-      "deadline": "2026-08-31",
-      "days_left": -3,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "NzQw-MTk0-MjBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/NzQw-MTk0-MjBB",
-      "raw": "Adopted A4112190 SAMSON PRIORITY: Medical 11 years Neutered West Shelter, Wing C - 077 08/31/26"
-    },
-    {
-      "animal_id": "A5162045",
-      "name": "Arlo",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "6 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing F - OS",
-      "deadline": "2026-06-28",
-      "days_left": -67,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTI5-MTY4-MTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-MTY4-MTBB",
-      "raw": "Adopted A5162045 ARLO PRIORITY: Behavior 6 years Neutered West Shelter, Wing F - OS 06/28/26"
-    },
-    {
-      "animal_id": "A5170112",
-      "name": "Butterfly",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 008",
-      "deadline": "2026-09-01",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjIw-MTZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjIw-MTZB",
-      "raw": "Transferred A5170112 BUTTERFLY NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing Q - 008 09/01/26"
-    },
-    {
-      "animal_id": "A5170216",
-      "name": "Dexter",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "5 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 016",
-      "deadline": "2026-09-02",
-      "days_left": -1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjM4-ODhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjM4-ODhB",
-      "raw": "Transferred A5170216 DEXTER NHO PRIORITY: Behavior 5 years Neutered West Shelter, Wing Q - 016 09/02/26"
-    },
-    {
-      "animal_id": "A5170362",
-      "name": "Chino",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "7 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 017",
-      "deadline": "2026-08-31",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjY1-MTZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjY1-MTZB",
-      "raw": "Transferred A5170362 CHINO NHO PRIORITY: Behavior 7 years Neutered West Shelter, Wing Q - 017 08/31/26"
-    },
-    {
-      "animal_id": "A5170374",
-      "name": "Floyd",
-      "nho": true,
-      "reason": "Medical",
-      "age": "10 years",
-      "sex": "Male",
-      "shelter": "East",
-      "kennel": "Wing S - 204",
-      "deadline": "2026-08-30",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjY3-MzJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjY3-MzJB",
-      "raw": "Transferred A5170374 FLOYD NHO PRIORITY: Medical 10 years Male East Shelter, Wing S - 204 08/30/26"
-    },
-    {
-      "animal_id": "A5170428",
-      "name": "Olive",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing F - 167",
-      "deadline": "2026-09-01",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Njc3-MDRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Njc3-MDRB",
-      "raw": "Transferred A5170428 OLIVE NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing F - 167 09/01/26"
-    },
-    {
       "animal_id": "A5169546",
       "name": "Domo",
       "nho": true,
@@ -1066,14 +947,6 @@
     }
   ],
   "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5169824 NYLA NHO PRIORITY: Behavior 6 years Spayed West Shelter, Wing S - 311 09/01/26",
-      "token": "OTMw-NTY4-MzJB"
-    },
-    {
-      "parse_error": "Returned to Owner A5170749 OREO NHO PRIORITY: Medical 13 years Male East Shelter, Wing C - 247 09/08/26",
-      "token": "OTMw-NzM0-ODJB"
-    },
     {
       "parse_error": "Returned to Owner A5170754 TROUBLEZ NHO PRIORITY: Medical 6 months Male West Shelter, Wing S - 301 09/09/26",
       "token": "OTMw-NzM1-NzJB"
