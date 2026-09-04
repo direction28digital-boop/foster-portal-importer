@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-04T04:30:47.244309+00:00",
+  "fetched_at": "2026-09-04T09:38:28.678646+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 20,
-    "resolved": 10,
-    "parse_errors": 1
+    "resolved": 8,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -82,11 +82,11 @@
       "kennel": "East Kennel, Wing B - 104",
       "deadline": "2026-09-03",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTI5-NDcx-OTRB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-NDcx-OTRB",
-      "raw": "A5163733 ROCKET NHO PRIORITY: Behavior 8 years Neutered East Shelter, Wing B - 104 09/03/26",
+      "raw": "Transfer Pending A5163733 ROCKET NHO PRIORITY: Behavior 8 years Neutered East Shelter, Wing B - 104 09/03/26",
       "breed": "BLACK/BROWN MIN PINSCHER/MIX",
       "level": "ORANGE",
       "weight": "16.8",
@@ -650,40 +650,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5169546",
-      "name": "Domo",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing H - 258",
-      "deadline": "2026-08-30",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NTE4-MjhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTE4-MjhB",
-      "raw": "Transferred A5169546 DOMO NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing H - 258 08/30/26"
-    },
-    {
-      "animal_id": "A5170455",
-      "name": "Lilac",
-      "nho": true,
-      "reason": "Medical",
-      "age": "3 years",
-      "sex": "Female",
-      "shelter": "West",
-      "kennel": "Wing D - 112",
-      "deadline": "2026-08-31",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Njgx-OTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Njgx-OTBB",
-      "raw": "Transferred A5170455 LILAC NHO PRIORITY: Medical 3 years Female West Shelter, Wing D - 112 08/31/26"
-    },
-    {
       "animal_id": "A5169620",
       "name": "Amarillo",
       "nho": true,
@@ -820,10 +786,5 @@
       "raw": "Transferred A5170136 MIRIAM NHO PRIORITY: Medical 12 years Female West Shelter, Wing S - 301 09/01/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5170754 TROUBLEZ NHO PRIORITY: Medical 6 months Male West Shelter, Wing S - 301 09/09/26",
-      "token": "OTMw-NzM1-NzJB"
-    }
-  ]
+  "parse_errors": []
 }
