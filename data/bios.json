@@ -3327,5 +3327,34 @@
     ],
     "story": "Raspberry is a young shepherd who carries fear like a weight. She wants to trust—she'll come forward when a handler kneels down, she'll lean into quiet companionship—but the shelter breaks her every time. She's been through intake five times since early August, and the stress has caught up with her: she now has persistent respiratory disease and is on urgent medical status. She has nine days.",
     "needs": "Raspberry needs an experienced, patient home with no other dogs, adults who understand that a frightened dog needs time and will not push her, and a commitment to slow, gentle decompression. She is head-shy with leash placement and startles easily, so this is not a beginner's dog. She is listed as a medical priority and her deadline is firm."
+  },
+  "A5170361": {
+    "animal_id": "A5170361",
+    "name": "Scarecrow",
+    "age": "2 months",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing V - 540",
+    "bullets": [
+      "Six-pound puppy, about eight weeks old, pulled from intake less than a week ago",
+      "Tested positive for parvovirus and needs immediate medical care",
+      "Tagged as medical priority with one day left on deadline"
+    ],
+    "story": "Scarecrow is a two-month-old puppy fighting parvo on a deadline. He weighs six pounds and needs a rescue with the resources to treat him through this virus and the weeks of recovery that follow.",
+    "needs": "Must be pulled by a New Hope Partner rescue with parvo treatment capacity and medical fostering experience. This is not a beginner foster situation. Rescue must submit pull request by end of business September 8th."
+  },
+  "A5169534": {
+    "animal_id": "A5169534",
+    "name": "Pepperoni",
+    "age": "7 years 1 months",
+    "breed": "Pit Bull Terrier",
+    "location": "East Shelter, Wing C - 249",
+    "bullets": [
+      "Found stray after one day, came in limping on back right leg, had gotten along with the finder's Great Dane and Labradoodle.",
+      "Easily startled at first but leans into handlers for pets and belly rubs, sits for treats, walks on a loose leash most of the time.",
+      "Bolts out open doors if not leashed first, kept free roam in a room before intake, pulls some on walks.",
+      "Has a persistent respiratory illness and is on urgent medical with six days to find an outlet."
+    ],
+    "story": "Pepperoni is a seven-year-old pittie mix who showed up hurt and alone, and the shelter has been kind to him, but his respiratory disease is not clearing and time just ran out. He is sweet with handlers, gentle enough to lean his whole self into your lap, and he got along fine with big dogs before he landed here.",
+    "needs": "A foster who can manage an escape artist at doorways and who understands this is a senior dog with a medical condition that will need care and monitoring. He is not a quick flip, he is a commitment."
   }
 }
