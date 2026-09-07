@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-07T04:38:39.779012+00:00",
+  "fetched_at": "2026-09-07T10:16:21.007167+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 26,
-    "resolved": 7,
+    "resolved": 3,
     "parse_errors": 0
   },
   "active": [
@@ -841,74 +841,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5163733",
-      "name": "Rocket",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "8 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing B - 104",
-      "deadline": "2026-09-03",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTI5-NDcx-OTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-NDcx-OTRB",
-      "raw": "Transferred A5163733 ROCKET NHO PRIORITY: Behavior 8 years Neutered East Shelter, Wing B - 104 09/03/26"
-    },
-    {
-      "animal_id": "A5167849",
-      "name": "Sparrow",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing B - 045",
-      "deadline": "2026-09-02",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-MjEy-ODJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MjEy-ODJB",
-      "raw": "Transferred A5167849 SPARROW NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing B - 045 09/02/26"
-    },
-    {
-      "animal_id": "A5169324",
-      "name": "Mimosa",
-      "nho": false,
-      "reason": "Medical",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing I - 263",
-      "deadline": "2026-09-08",
-      "days_left": 1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-NDc4-MzJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDc4-MzJB",
-      "raw": "Adopted A5169324 MIMOSA PRIORITY: Medical 2 years Spayed West Shelter, Wing I - 263 09/08/26"
-    },
-    {
-      "animal_id": "A5170443",
-      "name": "Sinclair",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing E - 137",
-      "deadline": "2026-09-02",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Njc5-NzRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Njc5-NzRB",
-      "raw": "Transferred A5170443 SINCLAIR NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing E - 137 09/02/26"
-    },
     {
       "animal_id": "A5169130",
       "name": "Einstein",
