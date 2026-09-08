@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-08T05:58:06.421122+00:00",
+  "fetched_at": "2026-09-08T11:16:57.612915+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 25,
-    "resolved": 4,
+    "resolved": 2,
     "parse_errors": 1
   },
   "active": [
@@ -809,40 +809,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5169130",
-      "name": "Einstein",
-      "nho": false,
-      "reason": "Medical",
-      "age": "4 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing I - 267",
-      "deadline": "2026-09-08",
-      "days_left": 0,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-NDQz-NDBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDQz-NDBB",
-      "raw": "Adopted A5169130 EINSTEIN PRIORITY: Medical 4 years Neutered West Shelter, Wing I - 267 09/08/26"
-    },
-    {
-      "animal_id": "A5170784",
-      "name": "Fanta",
-      "nho": true,
-      "reason": "Medical",
-      "age": "7 years",
-      "sex": "Female",
-      "shelter": "West",
-      "kennel": "Wing F - 193",
-      "deadline": "2026-09-08",
-      "days_left": 0,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NzQx-MTJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NzQx-MTJB",
-      "raw": "Transferred A5170784 FANTA NHO PRIORITY: Medical 7 years Female West Shelter, Wing F - 193 09/08/26"
-    },
     {
       "animal_id": "A5166904",
       "name": "Gully",
