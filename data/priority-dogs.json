@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-09T04:41:33.256528+00:00",
+  "fetched_at": "2026-09-09T09:45:00.824732+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 27,
-    "resolved": 8,
+    "resolved": 7,
     "parse_errors": 1
   },
   "active": [
@@ -873,23 +873,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5166904",
-      "name": "Gully",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing B - 030",
-      "deadline": "2026-09-10",
-      "days_left": 1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-MDQy-NzJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-MDQy-NzJB",
-      "raw": "Adopted A5166904 GULLY PRIORITY: Behavior 3 years Neutered West Shelter, Wing B - 030 09/10/26"
-    },
     {
       "animal_id": "A5170361",
       "name": "Scarecrow",
