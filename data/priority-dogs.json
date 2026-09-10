@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-10T04:43:15.140114+00:00",
+  "fetched_at": "2026-09-10T09:43:23.518936+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 32,
-    "resolved": 8,
-    "parse_errors": 1
+    "resolved": 7,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -1034,23 +1034,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5170361",
-      "name": "Scarecrow",
-      "nho": true,
-      "reason": "Medical",
-      "age": "9 weeks",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing V - 540",
-      "deadline": "2026-09-08",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjY0-OThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjY0-OThB",
-      "raw": "Transferred A5170361 SCARECROW NHO PRIORITY: Medical 9 weeks Neutered West Shelter, Wing V - 540 09/08/26"
-    },
-    {
       "animal_id": "A3954296",
       "name": "Zeus",
       "nho": true,
@@ -1170,10 +1153,5 @@
       "raw": "Adopted A5168318 MAGGIE PRIORITY: Behavior 1 year 2 months Spayed West Shelter, Wing D - 105 09/10/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Foster A5157016 DOLLY PRIORITY: Behavior 2 years Spayed West Shelter, Wing F - 161 08/30/26",
-      "token": "OTI4-MjYy-ODhB"
-    }
-  ]
+  "parse_errors": []
 }
