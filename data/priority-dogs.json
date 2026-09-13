@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-13T04:46:46.787055+00:00",
+  "fetched_at": "2026-09-13T10:17:14.866587+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 34,
-    "resolved": 12,
+    "resolved": 11,
     "parse_errors": 0
   },
   "active": [
@@ -1098,23 +1098,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5170489",
-      "name": "Chance",
-      "nho": true,
-      "reason": "Medical",
-      "age": "7 years",
-      "sex": "Male",
-      "shelter": "East",
-      "kennel": "Wing S - 231",
-      "deadline": "2026-09-13",
-      "days_left": 0,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Njg4-MDJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Njg4-MDJB",
-      "raw": "Transferred A5170489 CHANCE NHO PRIORITY: Medical 7 years Male East Shelter, Wing S - 231 09/13/26"
-    },
-    {
       "animal_id": "A4874882",
       "name": "Griso",
       "nho": true,
@@ -1289,7 +1272,7 @@
       "name": "Biggie Smalls",
       "nho": true,
       "reason": "Medical",
-      "age": "7 weeks",
+      "age": "8 weeks",
       "sex": "Male",
       "shelter": "East",
       "kennel": "Wing I - 295",
@@ -1299,7 +1282,7 @@
       "resolved": true,
       "token": "OTMw-Nzgx-MjZB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Nzgx-MjZB",
-      "raw": "Transferred A5171007 BIGGIE SMALLS NHO PRIORITY: Medical 7 weeks Male East Shelter, Wing I - 295 09/13/26"
+      "raw": "Transferred A5171007 BIGGIE SMALLS NHO PRIORITY: Medical 8 weeks Male East Shelter, Wing I - 295 09/13/26"
     }
   ],
   "parse_errors": []
