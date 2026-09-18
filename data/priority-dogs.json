@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-18T04:48:36.421352+00:00",
+  "fetched_at": "2026-09-18T09:45:30.907547+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 27,
-    "resolved": 11,
+    "resolved": 7,
     "parse_errors": 1
   },
   "active": [
@@ -873,74 +873,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5170179",
-      "name": "Cruz",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year 1 month",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing Q - 377",
-      "deadline": "2026-09-13",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NjMy-MjJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NjMy-MjJB",
-      "raw": "Transferred A5170179 CRUZ NHO PRIORITY: Behavior 1 year 1 month Neutered East Shelter, Wing Q - 377 09/13/26"
-    },
-    {
-      "animal_id": "A5170811",
-      "name": "Rose",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "4 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 042",
-      "deadline": "2026-09-13",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NzQ1-OThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NzQ1-OThB",
-      "raw": "Transferred A5170811 ROSE NHO PRIORITY: Behavior 4 years Spayed West Shelter, Wing Q - 042 09/13/26"
-    },
-    {
-      "animal_id": "A5170939",
-      "name": "Davey",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "4 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 032",
-      "deadline": "2026-09-13",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NzY5-MDJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NzY5-MDJB",
-      "raw": "Transferred A5170939 DAVEY NHO PRIORITY: Behavior 4 years Neutered West Shelter, Wing Q - 032 09/13/26"
-    },
-    {
-      "animal_id": "A5171045",
-      "name": "Dobbie",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 001",
-      "deadline": "2026-09-14",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Nzg4-MTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Nzg4-MTBB",
-      "raw": "Transferred A5171045 DOBBIE NHO PRIORITY: Behavior 1 year Neutered West Shelter, Wing Q - 001 09/14/26"
-    },
     {
       "animal_id": "A5080070",
       "name": "Hercules",
