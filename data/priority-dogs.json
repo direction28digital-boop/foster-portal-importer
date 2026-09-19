@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-19T05:53:04.890151+00:00",
+  "fetched_at": "2026-09-19T10:57:12.849945+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 34,
-    "resolved": 11,
+    "resolved": 7,
     "parse_errors": 1
   },
   "active": [
@@ -1097,74 +1097,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5080070",
-      "name": "Hercules",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing E - 144",
-      "deadline": "2026-09-14",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTE0-NDEy-NjBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTE0-NDEy-NjBB",
-      "raw": "Transferred A5080070 HERCULES NHO PRIORITY: Behavior 3 years Neutered West Shelter, Wing E - 144 09/14/26"
-    },
-    {
-      "animal_id": "A5170857",
-      "name": "Cherry",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 033",
-      "deadline": "2026-09-14",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NzU0-MjZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NzU0-MjZB",
-      "raw": "Transferred A5170857 CHERRY NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing Q - 033 09/14/26"
-    },
-    {
-      "animal_id": "A5171063",
-      "name": "Maggie",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing K - 500",
-      "deadline": "2026-09-16",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Nzkx-MzRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Nzkx-MzRB",
-      "raw": "Transferred A5171063 MAGGIE NHO PRIORITY: Behavior 3 years Spayed West Shelter, Wing K - 500 09/16/26"
-    },
-    {
-      "animal_id": "A5171111",
-      "name": "Chika Matic",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year",
-      "sex": "Spayed",
-      "shelter": "East",
-      "kennel": "Wing C - 245",
-      "deadline": "2026-09-14",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-Nzk5-OThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Nzk5-OThB",
-      "raw": "Transferred A5171111 CHIKA MATIC NHO PRIORITY: Behavior 1 year Spayed East Shelter, Wing C - 245 09/14/26"
-    },
     {
       "animal_id": "A5170973",
       "name": "Orion",
