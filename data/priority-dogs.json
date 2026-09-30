@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-30T06:41:55.733935+00:00",
+  "fetched_at": "2026-09-30T13:41:35.810316+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 17,
-    "resolved": 7,
+    "resolved": 4,
     "parse_errors": 0
   },
   "active": [
@@ -521,7 +521,7 @@
     },
     {
       "animal_id": "A5172277",
-      "name": "Name Unknown",
+      "name": "FINNY",
       "nho": true,
       "reason": "Medical",
       "age": "7Y 0M",
@@ -534,7 +534,7 @@
       "resolved": false,
       "token": "OTMx-MDA5-ODZB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDA5-ODZB",
-      "raw": "A5172277 UNKNOWN NHO PRIORITY: Medical 7 years Male West Shelter, Wing S - 321 10/06/26",
+      "raw": "A5172277 FINNY NHO PRIORITY: Medical 7 years Male West Shelter, Wing S - 321 10/06/26",
       "breed": "GRAY/WHITE AM PIT BULL TER",
       "level": "YELLOW",
       "weight": "60.4",
@@ -553,57 +553,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5161687",
-      "name": "Ruger",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing E - 338",
-      "deadline": "2026-09-29",
-      "days_left": -1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTI5-MTAz-NjZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI5-MTAz-NjZB",
-      "raw": "Adopted A5161687 RUGER PRIORITY: Behavior 2 years Neutered East Shelter, Wing E - 338 09/29/26"
-    },
-    {
-      "animal_id": "A5171536",
-      "name": "Espresso",
-      "nho": true,
-      "reason": "Medical",
-      "age": "5 years",
-      "sex": "Female",
-      "shelter": "West",
-      "kennel": "Wing S - 304",
-      "deadline": "2026-09-27",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-ODc2-NDhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-ODc2-NDhB",
-      "raw": "Transferred A5171536 ESPRESSO NHO PRIORITY: Medical 5 years Female West Shelter, Wing S - 304 09/27/26"
-    },
-    {
-      "animal_id": "A5171572",
-      "name": "Penny",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Female",
-      "shelter": "West",
-      "kennel": "Wing K - 455",
-      "deadline": "2026-09-28",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-ODgy-OTZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-ODgy-OTZB",
-      "raw": "Transferred A5171572 PENNY NHO PRIORITY: Behavior 2 years Female West Shelter, Wing K - 455 09/28/26"
-    },
     {
       "animal_id": "A5171658",
       "name": "Winston",
