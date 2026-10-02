@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-02T02:15:08.352072+00:00",
+  "fetched_at": "2026-10-02T08:33:09.038941+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 22,
-    "resolved": 8,
+    "resolved": 5,
     "parse_errors": 3
   },
   "active": [
@@ -713,57 +713,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5158753",
-      "name": "Napa",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing B - 124",
-      "deadline": "2026-09-29",
-      "days_left": -3,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTI4-NTc1-NTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI4-NTc1-NTRB",
-      "raw": "Adopted A5158753 NAPA PRIORITY: Behavior 2 years Neutered East Shelter, Wing B - 124 09/29/26"
-    },
-    {
-      "animal_id": "A5171547",
-      "name": "Shelby",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing H - 243",
-      "deadline": "2026-09-28",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-ODc4-NDZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-ODc4-NDZB",
-      "raw": "Transferred A5171547 SHELBY NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing H - 243 09/28/26"
-    },
-    {
-      "animal_id": "A5171850",
-      "name": "Unicorn",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 020",
-      "deadline": "2026-09-29",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTMz-MDBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTMz-MDBB",
-      "raw": "Transferred A5171850 UNICORN NHO PRIORITY: Behavior 3 years Spayed West Shelter, Wing Q - 020 09/29/26"
-    },
     {
       "animal_id": "A5160833",
       "name": "Beerus",
