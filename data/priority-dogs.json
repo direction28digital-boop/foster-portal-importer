@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-03T06:31:38.325926+00:00",
+  "fetched_at": "2026-10-03T12:33:41.779518+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 23,
-    "resolved": 8,
-    "parse_errors": 3
+    "resolved": 5,
+    "parse_errors": 2
   },
   "active": [
     {
@@ -746,57 +746,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5160833",
-      "name": "Beerus",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year 5 months",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing B - 132",
-      "deadline": "2026-09-30",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTI4-OTQ5-OTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI4-OTQ5-OTRB",
-      "raw": "Transferred A5160833 BEERUS NHO PRIORITY: Behavior 1 year 5 months Neutered East Shelter, Wing B - 132 09/30/26"
-    },
-    {
-      "animal_id": "A5169995",
-      "name": "Buddy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing B - 060",
-      "deadline": "2026-09-28",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NTk5-MTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NTk5-MTBB",
-      "raw": "Transferred A5169995 BUDDY NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing B - 060 09/28/26"
-    },
-    {
-      "animal_id": "A5171951",
-      "name": "Maximus",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing S - 332",
-      "deadline": "2026-09-30",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTUx-MThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTUx-MThB",
-      "raw": "Transferred A5171951 MAXIMUS NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing S - 332 09/30/26"
-    },
-    {
       "animal_id": "A5171930",
       "name": "Ada",
       "nho": false,
@@ -883,10 +832,6 @@
     }
   ],
   "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5171588 AJ NHO PRIORITY: Behavior 1 year 1 month Neutered East Shelter, Wing Q - 377 09/28/26",
-      "token": "OTMw-ODg1-ODRB"
-    },
     {
       "parse_error": "Returned to Owner A5171829 SARAPHINE NHO PRIORITY: Behavior 1 year Spayed East Shelter, Wing Q - 385 09/30/26",
       "token": "OTMw-OTI5-MjJB"
