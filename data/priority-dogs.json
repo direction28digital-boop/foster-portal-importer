@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-04T02:37:49.261275+00:00",
+  "fetched_at": "2026-10-04T09:45:56.070368+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 24,
-    "resolved": 5,
-    "parse_errors": 3
+    "resolved": 3,
+    "parse_errors": 1
   },
   "active": [
     {
@@ -778,40 +778,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5171930",
-      "name": "Ada",
-      "nho": false,
-      "reason": "Medical",
-      "age": "6 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing H - 260",
-      "deadline": "2026-10-01",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTQ3-NDBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTQ3-NDBB",
-      "raw": "Transferred A5171930 ADA PRIORITY: Medical 6 years Spayed West Shelter, Wing H - 260 10/01/26"
-    },
-    {
-      "animal_id": "A5171933",
-      "name": "Tofu",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "4 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing K - 458",
-      "deadline": "2026-09-30",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTQ3-OTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTQ3-OTRB",
-      "raw": "Transferred A5171933 TOFU NHO PRIORITY: Behavior 4 years Neutered West Shelter, Wing K - 458 09/30/26"
-    },
-    {
       "animal_id": "A5171833",
       "name": "Teeny",
       "nho": true,
@@ -864,14 +830,6 @@
     }
   ],
   "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5171829 SARAPHINE NHO PRIORITY: Behavior 1 year Spayed East Shelter, Wing Q - 385 09/30/26",
-      "token": "OTMw-OTI5-MjJB"
-    },
-    {
-      "parse_error": "Foster A5172436 UNKNOWN NHO PRIORITY: Medical 16 years Male West Shelter, Wing K - 497 10/07/26",
-      "token": "OTMx-MDM4-NDhB"
-    },
     {
       "parse_error": "Foster A4094554 SKYLER PRIORITY: Medical 9 years Neutered East Shelter, Wing C - 253 10/04/26",
       "token": "NzM3-MDE5-NzJB"
