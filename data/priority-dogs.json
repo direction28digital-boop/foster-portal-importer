@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-05T01:59:53.158081+00:00",
+  "fetched_at": "2026-10-05T09:02:15.240637+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 24,
-    "resolved": 4,
+    "resolved": 1,
     "parse_errors": 1
   },
   "active": [
@@ -777,57 +777,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5171833",
-      "name": "Teeny",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing G - 240",
-      "deadline": "2026-09-29",
-      "days_left": -6,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTI5-OTRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTI5-OTRB",
-      "raw": "Transferred A5171833 TEENY NHO PRIORITY: Behavior 2 years Spayed West Shelter, Wing G - 240 09/29/26"
-    },
-    {
-      "animal_id": "A5171916",
-      "name": "Stanley",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "6 months",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing K - 462",
-      "deadline": "2026-10-04",
-      "days_left": -1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-OTQ0-ODhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTQ0-ODhB",
-      "raw": "Adopted A5171916 STANLEY PRIORITY: Behavior 6 months Neutered West Shelter, Wing K - 462 10/04/26"
-    },
-    {
-      "animal_id": "A5172324",
-      "name": "Livia",
-      "nho": true,
-      "reason": "Medical",
-      "age": "10 years",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "Wing V - 321",
-      "deadline": "2026-10-06",
-      "days_left": 1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MDE4-MzJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDE4-MzJB",
-      "raw": "Transferred A5172324 LIVIA NHO PRIORITY: Medical 10 years Female East Shelter, Wing V - 321 10/06/26"
-    },
     {
       "animal_id": "A5172436",
       "name": "Rumpel",
