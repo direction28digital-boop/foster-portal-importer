@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-07T00:41:31.175902+00:00",
+  "fetched_at": "2026-10-07T07:13:30.313571+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 22,
-    "resolved": 3,
+    "resolved": 2,
     "parse_errors": 2
   },
   "active": [
@@ -713,23 +713,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5172436",
-      "name": "Rumpel",
-      "nho": true,
-      "reason": "Medical",
-      "age": "16 years",
-      "sex": "Male",
-      "shelter": "West",
-      "kennel": "Wing K - 497",
-      "deadline": "2026-10-07",
-      "days_left": 0,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MDM4-NDhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDM4-NDhB",
-      "raw": "Transferred A5172436 RUMPEL NHO PRIORITY: Medical 16 years Male West Shelter, Wing K - 497 10/07/26"
-    },
     {
       "animal_id": "A5169772",
       "name": "Eclair",
