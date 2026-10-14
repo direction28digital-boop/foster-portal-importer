@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-14T01:56:47.122517+00:00",
+  "fetched_at": "2026-10-14T07:36:32.525847+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 19,
-    "resolved": 5,
+    "resolved": 4,
     "parse_errors": 2
   },
   "active": [
@@ -617,23 +617,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5172188",
-      "name": "Noelle",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "5 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing L - 394",
-      "deadline": "2026-10-12",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-OTkz-ODRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTkz-ODRB",
-      "raw": "Transferred A5172188 NOELLE NHO PRIORITY: Behavior 5 years Spayed West Shelter, Wing L - 394 10/12/26"
-    },
     {
       "animal_id": "A4329140",
       "name": "Roko",
