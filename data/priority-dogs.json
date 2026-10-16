@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-16T05:50:41.691275+00:00",
+  "fetched_at": "2026-10-16T11:20:30.048140+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 19,
-    "resolved": 8,
+    "resolved": 7,
     "parse_errors": 0
   },
   "active": [
@@ -617,23 +617,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5171845",
-      "name": "Gimli",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing A - 008",
-      "deadline": "2026-10-14",
-      "days_left": -2,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-OTMy-MTBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-OTMy-MTBB",
-      "raw": "Adopted A5171845 GIMLI PRIORITY: Behavior 2 years Neutered West Shelter, Wing A - 008 10/14/26"
-    },
     {
       "animal_id": "A5172716",
       "name": "Melia",
