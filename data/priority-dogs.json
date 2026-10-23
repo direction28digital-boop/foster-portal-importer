@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-23T01:30:15.469946+00:00",
+  "fetched_at": "2026-10-23T07:30:17.914816+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 34,
-    "resolved": 8,
-    "parse_errors": 2
+    "resolved": 3,
+    "parse_errors": 1
   },
   "active": [
     {
@@ -1098,91 +1098,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5135279",
-      "name": "Eddie",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing C - 244",
-      "deadline": "2026-10-19",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTI0-MzUw-MjJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTI0-MzUw-MjJB",
-      "raw": "Transferred A5135279 EDDIE NHO PRIORITY: Behavior 3 years Neutered East Shelter, Wing C - 244 10/19/26"
-    },
-    {
-      "animal_id": "A5168994",
-      "name": "Baxter",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "7 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing B - 107",
-      "deadline": "2026-10-18",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMw-NDE4-OTJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDE4-OTJB",
-      "raw": "Transferred A5168994 BAXTER NHO PRIORITY: Behavior 7 years Neutered East Shelter, Wing B - 107 10/18/26"
-    },
-    {
-      "animal_id": "A5172610",
-      "name": "Ziggy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 033",
-      "deadline": "2026-10-19",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MDY5-ODBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDY5-ODBB",
-      "raw": "Transferred A5172610 ZIGGY NHO PRIORITY: Behavior 3 years Neutered West Shelter, Wing Q - 033 10/19/26"
-    },
-    {
-      "animal_id": "A5172694",
-      "name": "Plankton",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing Q - 372",
-      "deadline": "2026-10-20",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MDg0-OTJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDg0-OTJB",
-      "raw": "Transferred A5172694 PLANKTON NHO PRIORITY: Behavior 2 years Neutered East Shelter, Wing Q - 372 10/20/26"
-    },
-    {
-      "animal_id": "A5172734",
-      "name": "Bear",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "8 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing B - 165",
-      "deadline": "2026-10-19",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MDky-MTJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MDky-MTJB",
-      "raw": "Transferred A5172734 BEAR NHO PRIORITY: Behavior 8 years Neutered East Shelter, Wing B - 165 10/19/26"
-    },
-    {
       "animal_id": "A5170841",
       "name": "Nemo",
       "nho": true,
@@ -1235,10 +1150,6 @@
     }
   ],
   "parse_errors": [
-    {
-      "parse_error": "Foster A5157016 DOLLY PRIORITY: Behavior 2 years Spayed West Shelter, Wing F - 161 08/30/26",
-      "token": "OTI4-MjYy-ODhB"
-    },
     {
       "parse_error": "Foster A5150014 YAHOO NHO PRIORITY: Medical 4 years Neutered West Shelter, Wing S - 306 10/28/26",
       "token": "OTI3-MDAy-NTJB"
