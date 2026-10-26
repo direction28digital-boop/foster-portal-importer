@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-26T06:11:27.886643+00:00",
+  "fetched_at": "2026-10-26T12:58:53.631604+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 37,
-    "resolved": 5,
+    "resolved": 4,
     "parse_errors": 0
   },
   "active": [
@@ -242,11 +242,11 @@
       "kennel": "West Kennel, Wing B - 036",
       "deadline": "2026-10-25",
       "days_left": -1,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMw-Nzcx-MDBB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-Nzcx-MDBB",
-      "raw": "A5170950 YUKON NHO PRIORITY: Behavior 4 years Neutered West Shelter, Wing B - 036 10/25/26",
+      "raw": "Transfer Pending A5170950 YUKON NHO PRIORITY: Behavior 4 years Neutered West Shelter, Wing B - 036 10/25/26",
       "breed": "BLACK/WHITE ALASKAN HUSKY",
       "level": "ORANGE",
       "weight": "49.0",
@@ -1193,23 +1193,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5168991",
-      "name": "Izzy",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing A - 040",
-      "deadline": "2026-10-27",
-      "days_left": 1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-NDE4-MzhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NDE4-MzhB",
-      "raw": "Adopted A5168991 IZZY PRIORITY: Behavior 2 years Neutered East Shelter, Wing A - 040 10/27/26"
-    },
     {
       "animal_id": "A5171926",
       "name": "Butterfly",
