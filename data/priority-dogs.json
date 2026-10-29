@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-29T02:27:00.042395+00:00",
+  "fetched_at": "2026-10-29T09:56:07.757865+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 27,
-    "resolved": 12,
+    "resolved": 9,
     "parse_errors": 3
   },
   "active": [
@@ -873,57 +873,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A4476736",
-      "name": "Dixie",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "6 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing E - 138",
-      "deadline": "2026-10-27",
-      "days_left": -2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "ODA1-ODEy-NDhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/ODA1-ODEy-NDhB",
-      "raw": "Transferred A4476736 DIXIE NHO PRIORITY: Behavior 6 years Spayed West Shelter, Wing E - 138 10/27/26"
-    },
-    {
-      "animal_id": "A5170863",
-      "name": "Pumpkin",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "4 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing B - 031",
-      "deadline": "2026-10-28",
-      "days_left": -1,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMw-NzU1-MzRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMw-NzU1-MzRB",
-      "raw": "Adopted A5170863 PUMPKIN PRIORITY: Behavior 4 years Spayed West Shelter, Wing B - 031 10/28/26"
-    },
-    {
-      "animal_id": "A5173060",
-      "name": "Napoleon",
-      "nho": false,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing S - 342",
-      "deadline": "2026-10-25",
-      "days_left": -4,
-      "status": "ADOPTED",
-      "resolved": true,
-      "token": "OTMx-MTUw-ODBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MTUw-ODBB",
-      "raw": "Adopted A5173060 NAPOLEON PRIORITY: Behavior 3 years Neutered West Shelter, Wing S - 342 10/25/26"
-    },
     {
       "animal_id": "A4646958",
       "name": "Balto",
