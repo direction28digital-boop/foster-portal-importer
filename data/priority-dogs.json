@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-31T06:59:44.547529+00:00",
+  "fetched_at": "2026-10-31T13:39:18.368109+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 30,
-    "resolved": 10,
-    "parse_errors": 3
+    "resolved": 6,
+    "parse_errors": 1
   },
   "active": [
     {
@@ -970,74 +970,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A4806190",
-      "name": "Daisy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "4 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing E - 136",
-      "deadline": "2026-10-27",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "ODY1-MTE0-MjBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/ODY1-MTE0-MjBB",
-      "raw": "Transferred A4806190 DAISY NHO PRIORITY: Behavior 4 years Spayed West Shelter, Wing E - 136 10/27/26"
-    },
-    {
-      "animal_id": "A5173208",
-      "name": "Melo",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "6 months",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 032",
-      "deadline": "2026-10-27",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MTc3-NDRB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MTc3-NDRB",
-      "raw": "Transferred A5173208 MELO NHO PRIORITY: Behavior 6 months Neutered West Shelter, Wing Q - 032 10/27/26"
-    },
-    {
-      "animal_id": "A5173210",
-      "name": "Binky",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "6 months",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing S - 310",
-      "deadline": "2026-10-27",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MTc3-ODBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MTc3-ODBB",
-      "raw": "Transferred A5173210 BINKY NHO PRIORITY: Behavior 6 months Neutered West Shelter, Wing S - 310 10/27/26"
-    },
-    {
-      "animal_id": "A5173211",
-      "name": "Hickory",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "6 months",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 017",
-      "deadline": "2026-10-28",
-      "days_left": -3,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MTc3-OThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MTc3-OThB",
-      "raw": "Transferred A5173211 HICKORY NHO PRIORITY: Behavior 6 months Neutered West Shelter, Wing Q - 017 10/28/26"
-    },
-    {
       "animal_id": "A5171867",
       "name": "Foxy",
       "nho": true,
@@ -1141,14 +1073,6 @@
     }
   ],
   "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A4505223 BLEU NHO PRIORITY: Behavior 7 years Neutered West Shelter, Wing Q - 030 10/26/26",
-      "token": "ODEw-OTQw-MTRB"
-    },
-    {
-      "parse_error": "Returned to Owner A5173206 BELLA NHO PRIORITY: Behavior 3 years Spayed West Shelter, Wing D - 109 10/28/26",
-      "token": "OTMx-MTc3-MDhB"
-    },
     {
       "parse_error": "Transferred A5166363 PIP NHO PRIORITY: Behavior 2 years Neutered 11/01/26",
       "token": "OTI5-OTQ1-MzRB"
