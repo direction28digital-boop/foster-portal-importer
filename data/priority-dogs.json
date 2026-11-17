@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-17T03:50:48.591801+00:00",
+  "fetched_at": "2026-11-17T13:21:03.825843+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 23,
-    "resolved": 9,
-    "parse_errors": 1
+    "resolved": 6,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -79,14 +79,14 @@
       "age": "1Y 1M",
       "sex": "Male",
       "shelter": "West",
-      "kennel": "West Kennel, Wing X - 521",
+      "kennel": "West Kennel, Wing Q - 021",
       "deadline": "2026-11-16",
       "days_left": -1,
       "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMx-MzEx-NzJB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MzEx-NzJB",
-      "raw": "Transfer Pending A5173954 BEDHEAD NHO PRIORITY: Behavior 1 year 1 month Male West Shelter, Wing X - 521 11/16/26",
+      "raw": "Transfer Pending A5173954 BEDHEAD NHO PRIORITY: Behavior 1 year 1 month Male West Shelter, Wing Q - 021 11/16/26",
       "breed": "WHITE SHIH TZU/MIX",
       "level": "ORANGE",
       "weight": "6.0",
@@ -690,11 +690,11 @@
       "kennel": "East Kennel, Wing E - 336",
       "deadline": "2026-11-22",
       "days_left": 5,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMx-Nzc2-MzBB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-Nzc2-MzBB",
-      "raw": "A5176535 UNKNOWN NHO PRIORITY: Medical 10 weeks Female East Shelter, Wing E - 336 11/22/26",
+      "raw": "Transfer Pending A5176535 UNKNOWN NHO PRIORITY: Medical 10 weeks Female East Shelter, Wing E - 336 11/22/26",
       "breed": "BRINDLE/WHITE BORDER COLLIE/MIX",
       "level": "GREEN",
       "weight": "6.4",
@@ -745,57 +745,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A4636297",
-      "name": "Little Girl",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "7 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing X - 506",
-      "deadline": "2026-11-18",
-      "days_left": 1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "ODM0-NTMz-NDZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/ODM0-NTMz-NDZB",
-      "raw": "Transferred A4636297 LITTLE GIRL NHO PRIORITY: Behavior 7 years Spayed West Shelter, Wing X - 506 11/18/26"
-    },
-    {
-      "animal_id": "A5173817",
-      "name": "Daisy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing K - 494",
-      "deadline": "2026-11-12",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-Mjg3-MDZB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-Mjg3-MDZB",
-      "raw": "Transferred A5173817 DAISY NHO PRIORITY: Behavior 3 years Spayed West Shelter, Wing K - 494 11/12/26"
-    },
-    {
-      "animal_id": "A5173941",
-      "name": "Scout",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "2 years",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing S - 308",
-      "deadline": "2026-11-12",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MzA5-MzhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MzA5-MzhB",
-      "raw": "Transferred A5173941 SCOUT NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing S - 308 11/12/26"
-    },
     {
       "animal_id": "A5167561",
       "name": "Kayda",
@@ -899,10 +848,5 @@
       "raw": "Transferred A5173840 MOOSE NHO PRIORITY: Behavior 5 years Neutered West Shelter, Wing Q - 039 11/12/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Foster A4640706 LEO PRIORITY: Medical 7 years Neutered East Shelter, Wing C - 276 11/15/26",
-      "token": "ODM1-MzI3-MDhB"
-    }
-  ]
+  "parse_errors": []
 }
