@@ -5971,5 +5971,390 @@
     ],
     "story": "Mrs Cleats is a seven-year-old pit bull who arrived terrified and is still carrying that weight. She needs quiet and time to decompress, and she has medical issues that make her a priority placement. Underneath the fear, handlers have seen a dog who seeks out calm human contact and responds to patience.",
     "needs": "A foster with no young children (12+ only), experience with fearful dogs, and the ability to go slow with introductions and decompression. She is New Hope Only and must be pulled by a partner rescue. This is not a beginner's dog and we will not pretend otherwise."
+  },
+  "A5173969": {
+    "animal_id": "A5173969",
+    "name": "Bernard",
+    "age": "10 months",
+    "breed": "Chow Chow",
+    "location": "West Shelter, Wing S - 328",
+    "bullets": [
+      "Ten-month-old Chow mix who greets people at the kennel door with a soft wiggly body and wagging tail",
+      "Walked on leash to the clinic, took vaccines without restraint, met several handlers and greeted them with tail wags",
+      "Gets overstimulated during handling and play—mouths at sleeves, jumps up, and has nipped handlers when excited",
+      "Does zoomies in the yard and sniffs around, but can be difficult to redirect when aroused",
+      "Has made contact that broke skin when overexcited or when petting stopped"
+    ],
+    "story": "Bernard is a young Chow who hasn't learned how to manage his own energy yet. He's friendly and physically affectionate, but when he gets wound up he uses his mouth the way an unsocialized puppy does, and at ten months and 46 pounds that's caused real harm. He came in with another dog and the intake notes suggest a home where boundaries weren't taught.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Bernard needs an experienced handler who understands arousal cycles, can read when he's escalating, and knows how to teach a dog to settle without flooding him. No thin skin, no kids, no one who'll keep pushing when he's overstimulated. Because he is New Hope Only, he must be pulled by a registered rescue partner by end of business November 18th."
+  },
+  "A5170398": {
+    "animal_id": "A5170398",
+    "name": "Antono",
+    "age": "2 years 3 months",
+    "breed": "Doberman Shepherd",
+    "location": "West Shelter, Wing S - 326",
+    "bullets": [
+      "Walks well on leash with some pulling, redirects easily when asked.",
+      "Takes treats gently, solicits attention from handlers with a soft face and wagging tail.",
+      "Easily startled by sudden noises or movements but settles when given time and calm handling.",
+      "Needs slow introductions to new dogs—tense and reactive at first, then relaxed and playful once comfortable.",
+      "Chewed through two crates when left alone; has accidents when crated and struggles to enter."
+    ],
+    "story": "Antono is a gentle, sensitive dog who wants to be close to people but doesn't quite know how to ask for it yet. He was adopted two weeks ago and returned because his fear of being left alone became destructive panic. He's affectionate once he trusts you, but the world startles him easily and confinement terrifies him.",
+    "needs": "A quiet home with someone experienced in separation anxiety who understands this will take months of patient work, not days. This is not a beginner's dog and we will not pretend otherwise. Antono is New Hope Only and must be pulled by a partner rescue no later than November 22."
+  },
+  "A5174627": {
+    "animal_id": "A5174627",
+    "name": "Ceceily",
+    "age": "2 years",
+    "breed": "Aust Cattle Dog",
+    "location": "East Shelter, Wing C - 267",
+    "bullets": [
+      "Found wandering near a freeway, spooked and skittish—her finder had to lure her with food over days before she'd come close",
+      "Shuts down hard in the shelter: shaking, flinching at treats, so wary of touch that handlers need multiple tries to leash her",
+      "In the yard she paces the fence line, digs, tries to climb out—the fear drives her to look for an exit",
+      "Growls over food and toys when someone reaches for them, needs space and a hands-off approach",
+      "The person who found her said she'd sit on cue, walked okay on leash, chewed couch cushions when anxious and alone"
+    ],
+    "story": "Ceceily is a two-year-old cattle dog mix running on empty. She was alone in a field by the freeway, and even after a kind stranger took her in, the world stayed too big and too close. In the shelter she's folded in on herself—shaking, unreachable, working every angle to escape. Somewhere under the fear is a dog who sat when asked and walked beside someone who moved slowly enough.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Ceceily needs someone who has worked through shutdown fear before, who understands resource guarding, and who can give her silent space and time measured in months, not weeks. She is New Hope Only and must be pulled by a qualified partner rescue with the capacity for long-term behavioral rehabilitation."
+  },
+  "A5174542": {
+    "animal_id": "A5174542",
+    "name": "Chicken Nugget",
+    "age": "2 years",
+    "breed": "Brown/cream Dachshund/mix",
+    "location": "West Shelter, Wing G - 226",
+    "bullets": [
+      "Leans into petting, sits politely for treats, takes them gently from handlers' hands",
+      "Does zoomies in the yard then comes back on his own with a relaxed body",
+      "Gets tense and raises hackles inside the kennel building, though he walks in without incident",
+      "Escaped constantly in his previous home—owner could not contain him",
+      "Started unpredictable fights with the small dog he lived with, chased and tried to fight the cat, nipped at visitors entering the home"
+    ],
+    "story": "Chicken Nugget is a two-year-old flight risk who loves the people he knows and settles into handler routines, but his history says the rest plainly: he got out every chance he had, he was mouthy with strangers at the door, and he went after the other animals in his home without warning. He is not mean. He is not safe without structure.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Chicken Nugget needs an experienced home with secure containment, no other animals, no visitors he can reach, and someone who understands that a soft face in the yard does not mean the risk goes away. He is New Hope Only and must be pulled by a rescue partner with a confirmed foster by end of day November 22."
+  },
+  "A5173963": {
+    "animal_id": "A5173963",
+    "name": "Clooney",
+    "age": "1 years 1 months",
+    "breed": "Pit Bull",
+    "location": "West Shelter, Wing H - 241",
+    "bullets": [
+      "Knows sit, stay, paw. Jumped into a stranger's car when found and let the finder handle him right away.",
+      "Head-shy when you go to put a collar on. High energy. Does zoomies in the yard and explores with his nose down.",
+      "In the shelter, escalating arousal under stress—jumps, pulls at the leash with his mouth, hackles up, low growling when overstimulated, hard to redirect."
+    ],
+    "story": "Clooney walked into someone's life friendly and willing, and two weeks in a concrete kennel have wound him tight. He is a young dog shutting down and ramping up at the same time, and what you are seeing in the notes is a dog trying to cope with something he cannot process.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Clooney needs an experienced handler who understands arousal and can give him structure, space, and time to decompress in a quiet home with no other dogs. New Hope Only—he must be pulled by a partner rescue with behavioral support by end of day November 22."
+  },
+  "A4916668": {
+    "animal_id": "A4916668",
+    "name": "Fig",
+    "age": "3 years 4 months",
+    "breed": "Black Pit Bull Retr",
+    "location": "West Shelter, Wing S - 333",
+    "bullets": [
+      "Greeted handlers with soft wiggly body and wagging tail, solicited attention through the kennel door, knows sit and paw, took treats gently",
+      "In the yard explored briefly, chased after a bird, then came to handler for petting all over, some jumping up but easy to redirect",
+      "Became tense near her food bowl at the end of the session, but staff removed the leash slowly with no issues",
+      "On intake after five days with a finder, bit when being pushed into a crate and air-snapped when startled, chased cats",
+      "Previous evaluation noted interest in a toy bin and coming when called by whistle"
+    ],
+    "story": "Fig was found wandering a gas station parking lot on 7th and Van Buren, friendly enough to approach for food. In the shelter she is affectionate and wiggly with people who give her space, but she escalates fast under pressure. The bite happened when someone tried to force her into a crate, and she has a history of resource guarding and reactivity to cats and dogs.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Fig needs an experienced handler who understands bite history, can read stress signals before they escalate, and will not push her past her threshold. No cats, no dogs, secure tall fencing, and a plan for crate training that does not involve force. Fig is New Hope Only and must be pulled by a partner rescue with behavior support resources by close of business November 22."
+  },
+  "A5174073": {
+    "animal_id": "A5174073",
+    "name": "Mookie",
+    "age": "1 years 4 months",
+    "breed": "Min",
+    "location": "West Shelter, Wing F - 200",
+    "bullets": [
+      "Small mixed breed, 25 pounds, neutered, sixteen months old",
+      "Came in shut down and scared, wouldn't eat for days, growled and retreated when staff approached his kennel",
+      "After patient work in a quieter yard, loosened up—jumped on a bench to lean into handlers, chased a tennis ball, did zoomies",
+      "By day six, staff noted soft face, tail wagging, approached the kennel front for treats",
+      "Surrendered after biting owner's hands when grabbed by the collar while panicked; barks at strangers and unfamiliar dogs"
+    ],
+    "story": "Mookie is a young dog whose fear runs deep, and when cornered or grabbed he has bitten. Inside that fear is a dog who relaxes when given space and time—who leans in for petting, who plays, who softens. He needs someone who understands that trust is rebuilt slowly and never through force.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Mookie needs an experienced handler who will not grab, corner, or startle him, who understands bite history, and who has the skill to help a fearful dog find his footing. No young children. Must be pulled by a New Hope Partner rescue by end of business November 22."
+  },
+  "A5174534": {
+    "animal_id": "A5174534",
+    "name": "Pumba",
+    "age": "2 years",
+    "breed": "Amer",
+    "location": "East Shelter, Wing C - 265",
+    "bullets": [
+      "Found wandering, took a porkchop gently from the officer who picked him up",
+      "105 pounds, leash walks, marks on walks, jumps in laps when comfortable",
+      "Hard stares at other dogs through fencing, body goes stiff, tail flags high with no wag",
+      "In the yard with handlers he leaned in for petting but showed limited social signaling, dilated pupils, tense posture that comes and goes"
+    ],
+    "story": "Pumba is a big two-year-old who ended up alone on a street corner and climbed into a squad car for a meal. He can be sweet and lean into handlers he trusts, but his responses are inconsistent and his body language around other dogs is rigid and concerning.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Pumba is New Hope Only, which means he must be pulled by a partner rescue with the experience to continue evaluating him safely. Deadline is November 22nd."
+  },
+  "A5173791": {
+    "animal_id": "A5173791",
+    "name": "Yokohama",
+    "age": "3 years",
+    "breed": "Rat",
+    "location": "West Shelter, Wing K - 486",
+    "bullets": [
+      "Runs to the back of his kennel when people approach, trembles and whale-eyes, but once picked up he goes still and allows handling—carried to exams, let the vet touch him, sat quietly in a handler's lap.",
+      "Came into the shelter barking and growling at staff in the lobby, but that fear has turned inward—now he shuts down, curls in the corner facing the wall, skin crawling when touched.",
+      "Lived with his person for three years, then that person died, and three weeks later the family who tried to keep him had nowhere left to put him."
+    ],
+    "story": "Yokohama is a ten-pound terrier mix whose whole world ended when his person passed away. He is terrified in the shelter, and after three weeks that terror has collapsed into shutdown—he doesn't fight, he just disappears inside himself. Underneath the fear, handlers have found a dog who tolerates touch once he's in someone's arms, who doesn't snap or bite, who is simply, profoundly lost.",
+    "needs": "This is not a beginner's dog. Yokohama needs an experienced foster who understands shutdown, who can give him time and space to surface again, and who will not expect him to be easy or quick about it. He is New Hope Only, which means a registered partner rescue must pull him by end of day November 22nd."
+  },
+  "A5174447": {
+    "animal_id": "A5174447",
+    "name": "Blossom",
+    "age": "1 year",
+    "breed": "Cairn Terrierrier",
+    "location": "West Shelter, Wing K - 409",
+    "bullets": [
+      "Found at a warehouse, so scared she pancaked on the ground and had to be carried inside",
+      "Knows sit, stay, and lay down; takes treats gently when she's not overwhelmed",
+      "Shuts down hard under pressure—whale eye, tucked head, frozen—then can flip to alarm barking and false lunges when handlers don't read the signals",
+      "Needs someone who reads the room ahead of trouble, not through it",
+      "Low growled at large dogs in the lobby"
+    ],
+    "story": "Blossom is a nine-pound terrier running on empty. She was found alone at a warehouse, so frightened she couldn't walk, and the shelter has been too much—she cycles between shutdown and survival bark, and nobody's had the time to meet her where she is. Underneath all that fear is a dog who knows commands, takes treats gently, and will put her paws in your lap when she feels safe.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Blossom needs a foster with terrier experience and the patience to let a scared dog decompress without pushing, someone who understands that a nine-pound dog can still bite when cornered, and a home without young children or large dogs. She is New Hope Only and must be pulled by a qualified rescue partner by November 23rd."
+  },
+  "A5175147": {
+    "animal_id": "A5175147",
+    "name": "Burrito",
+    "age": "2 years",
+    "breed": "Welsh Corgi Smooth",
+    "location": "West Shelter, Wing E - 138",
+    "bullets": [
+      "Found as a stray crossing the street near 19th Ave and Indian School, skittish at first but let a 12-year-old pick him up and sat in the car (though he barked, cried, and paced in circles unable to settle)",
+      "In the shelter kennel, sits in the back corner with tense body, won't approach handlers, wide-eyed and watchful, keeps at least five feet away even in the yard",
+      "When staff need to move him, he freezes or retreats, bites at the leash and tools when pressured, cries out and thrashes when cornered—a dog in survival mode, not aggression",
+      "Not eating his kibble, only picking at canned food mixed in; stress has shut him down hard"
+    ],
+    "story": "Burrito is a 23-pound Corgi mix who crossed paths with a kind family and briefly let his guard down, then landed in a concrete kennel where every sound and movement feels like a threat. He's not a mean dog—he's a terrified one, and fear makes him defensive when he has no other choice. Underneath the panic is a small dog who shared a burrito with a stranger and rode quietly in a car, but right now he can't see past the walls closing in.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Burrito needs an experienced foster who understands fear-based reactivity, can give him space and time to decompress without forced interaction, and won't take his defensive responses personally. He is New Hope Only and must be pulled by a qualified partner rescue with behavior support resources by November 23rd."
+  },
+  "A5174417": {
+    "animal_id": "A5174417",
+    "name": "Clementine",
+    "age": "1 year",
+    "breed": "Tricolor Terrierrier",
+    "location": "West Shelter, Wing G - 222",
+    "bullets": [
+      "Spent at least a week roaming loose before a resident caught her—skittish on approach, snapped and tried to get away when grabbed",
+      "In shelter has been frozen with fear, body tense, whale-eyed, trembling, heavy salivation, flinches at fast movements and loud noise",
+      "Takes treats gently and tolerates petting but does not seek it out, whipped her head toward handler once when startled by touch",
+      "Was friendly and playful with two large dogs in the yard where she was found, watched children calmly from a distance"
+    ],
+    "story": "Clementine is a young dog who survived alone on the streets and arrived at the shelter already terrified. What handlers see now is a dog shutting down under pressure—frozen, scanning, unable to walk on leash, too scared to move. She has shown she can be safe with dogs and gentle with people when she has space, but right now fear has her by the throat.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. She needs a foster with fearful-dog experience who will give her time and will not push. Must be pulled by a New Hope Partner rescue by close of business November 23."
+  },
+  "A5174869": {
+    "animal_id": "A5174869",
+    "name": "Flower",
+    "age": "3 years",
+    "breed": "Germ",
+    "location": "East Shelter, Wing C - 245",
+    "bullets": [
+      "Followed handlers on loose leash to the yard, explored independently, ate treats gently from their hand",
+      "Approached handlers to sniff and bump with her muzzle, then moved away when they reached to pet",
+      "Demonstrated sit on cue, stood alert watching people pass, never fully relaxed but showed moments of neutral body language"
+    ],
+    "story": "Flower is a 39-pound shepherd mix who wants connection but doesn't yet trust it. She solicits attention, then flinches when it's offered. Her body tells two stories at once—curiosity and caution, approach and retreat—and after a week in the shelter she still hasn't softened.",
+    "needs": "Flower needs an experienced handler who understands fear and won't rush her, who can read a dog that vacillates between interest and withdrawal. This is not a beginner's dog and we will not pretend otherwise. She is New Hope Only and must be pulled by a qualified partner rescue by end of business November 23."
+  },
+  "A4662631": {
+    "animal_id": "A4662631",
+    "name": "Lady",
+    "age": "8 years",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing S - 340",
+    "bullets": [
+      "Walks at a slow pace on leash, explores her surroundings, stops to sniff, relieves herself without issue",
+      "Takes treats gently from an open palm, tolerates brief petting along her head and back when she's ready",
+      "Becomes stiff and reactive when she sees other dogs—hackles up, hard staring, snarling—but redirects when handler guides her away",
+      "Snapped when handlers touched a painful area during intake exam and made contact during vaccine administration",
+      "Owner noted lumps along her torso and decreased appetite over the past couple weeks"
+    ],
+    "story": "Lady is an eight-year-old pit bull who came in when her owner's circumstances changed and she could no longer stay. She's a low-energy dog who moves through the world slowly and carefully, but the shelter has been hard on her. She's in pain, she's scared, and when people handle her too quickly or other dogs get too close, she tells them so. Under all that stress is a dog who took treats gently and leaned into calm hands.",
+    "needs": "Lady needs a foster with no other dogs, no young children, and experience with fearful or reactive dogs who need space and patience. She needs a vet to assess the lumps her owner noticed and address whatever is causing her discomfort. This is not a beginner's dog and we will not pretend otherwise. Lady is New Hope Only and must be pulled by a partner rescue by close of business November 23rd."
+  },
+  "A5175029": {
+    "animal_id": "A5175029",
+    "name": "Melvin",
+    "age": "3 years",
+    "breed": "Chinese",
+    "location": "West Shelter, Wing G - 213",
+    "bullets": [
+      "Takes treats, though initially wary—will pace, then settle enough to approach handlers and accept food from an open hand",
+      "Turned submissive when petted in the yard on intake day, rolled onto his side at handler's feet",
+      "Under shelter stress has escalated—now snaps at the leash, thrashes when frustrated, and came close to biting staff during last handling"
+    ],
+    "story": "Melvin walked in uncertain but soft enough to roll over for affection. Three days later the walls closed in and he started fighting the leash like it was the problem. He's shutting down and lashing out at the same time, which means he's past what this kennel can hold.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Melvin needs an experienced handler who understands fear and can give him the space and structure to come back down. Because he is New Hope Only, he must be pulled by a qualified rescue partner no later than close of business November 23rd."
+  },
+  "A5174460": {
+    "animal_id": "A5174460",
+    "name": "Mika",
+    "age": "3 years",
+    "breed": "Pit Bull",
+    "location": "West Shelter, Wing E - 130",
+    "bullets": [
+      "Found as a stray, reportedly played with young children and knew 'sit'",
+      "Shuts down hard in the shelter: trembling, whale-eyed, head lowered, paces and digs at gates",
+      "Reacts defensively when startled or handled—pulls away, low tolerance for being touched on head or ears",
+      "Barks and lunges at other dogs through fencing",
+      "Takes treats gently when coaxed but too stressed to eat meals"
+    ],
+    "story": "Mika is a 73-pound pit mix drowning in fear. She came in friendly enough to play with kids, but the shelter has broken her down—she trembles, won't eat, and responds to handling like someone who's been pushed past her limit. Under all that terror is a dog who once knew commands and took treats softly.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Mika needs an experienced handler who understands fear-based reactivity, can give her silence and space to decompress, and won't rush her. No other dogs. She is New Hope Only and must be pulled by a partner rescue with the resources to support her long recovery."
+  },
+  "A5176744": {
+    "animal_id": "A5176744",
+    "name": "Dog A5176744",
+    "age": "5 years",
+    "breed": "Alaskan Husky",
+    "location": "West Shelter, Wing S - 301",
+    "bullets": [
+      "Shuts down hard under shelter stress: pancakes flat when approached, won't take treats, trembles and urinates when handled",
+      "Allowed careful handling when staff moved slowly—muzzle wrap, petting, being carried—but cannot walk on leash in this environment",
+      "Circled and ran when staff first approached at intake, then froze when noise and movement overwhelmed him"
+    ],
+    "story": "This five-year-old husky mix is drowning in fear. The shelter noise has broken something in him and he cannot function here. Under all that shutdown is a dog who allowed gentle touch and didn't bite when terrified, which means there may be a different dog waiting on the other side of these walls.",
+    "needs": "Must be pulled by a partner rescue no later than 5:30 a.m. on November 24. Needs an experienced, patient foster who understands severe fear shutdown and can give him weeks or months of decompression with no pressure. This is not a beginner's dog. He is flagged for a medical concern with a deadline of close of business November 23."
+  },
+  "A4327157": {
+    "animal_id": "A4327157",
+    "name": "Rose",
+    "age": "11 years 3 months",
+    "breed": "Cairn Terrierrier",
+    "location": "West Shelter, Wing K - 443",
+    "bullets": [
+      "Eleven-year-old terrier who came in frightened and defensive after a stray hold, air-snapped when someone tried to lift her",
+      "Takes treats gently through the kennel gate and her body softens when handlers use a quiet voice and move slowly",
+      "In a secure room away from the kennel she ran to staff, solicited attention, allowed full-body petting, and showed high energy",
+      "Touch-sensitive around her neck and head—lowers her head, whale eyes, lip curls—but accepts petting under her chin",
+      "Eleven pounds of wiry terrier who walks on leash and has lived indoors"
+    ],
+    "story": "Rose is terrified in the kennel and shows it with her teeth. Outside that space, with someone who understands what fear looks like and doesn't rush her, she's a different dog—wiggly, affectionate, eager for contact. She's eleven years old and somebody's pet, and this environment is breaking her.",
+    "needs": "Rose must be pulled by a New Hope Partner by close of business November 23rd. She needs a foster experienced with fear-reactive small dogs who understands that alarm barking and defensiveness are not aggression, just terror with no other language. Someone who will not reach over her head, who will give her time, and who can read when she's done being touched. This is not a beginner's dog and we will not pretend otherwise."
+  },
+  "A5173030": {
+    "animal_id": "A5173030",
+    "name": "Scotch",
+    "age": "4 years 1 months",
+    "breed": "White Pit Bull Retr",
+    "location": "East Shelter, Wing S - 204",
+    "bullets": [
+      "Came to his finder friendly when they called, then lived inside for a week with small and large dogs and was playful with all of them.",
+      "Sought out petting from handlers in the yard, leaned in for more, demonstrated sit for treats.",
+      "Walked on leash with volunteers, wiggly and affectionate, mild pull but easy to redirect.",
+      "Met another dog through the fence and got excited to play, backed off when the other dog reacted and did not escalate.",
+      "High energy, treat motivated, wants to chase cats outside."
+    ],
+    "story": "Scotch ran up to a stranger who'd been chasing him and asked to be friends. He spent a week in a home with dogs of all sizes before he landed here, and what the shelter has seen since matches what his finder saw: a wiggly, affectionate dog who wants to be near people and plays well with other dogs. He's on a medical deadline now and needs a rescue partner to get him out.",
+    "needs": "A home with dog experience, no cats, and space for his energy. This is a New Hope Only pull, which means a registered rescue partner must commit to take him by end of day November 23rd."
+  },
+  "A5175201": {
+    "animal_id": "A5175201",
+    "name": "Space Jam",
+    "age": "2 years",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing D - 108",
+    "bullets": [
+      "Jumped into a stranger's car in a parking lot and rode along licking faces, let handlers scan for a chip and move him around without worry",
+      "Knows sit and shake, lived inside and out with another dog his size, reportedly friendly and playful",
+      "In the shelter runs extremely hot—constant jumping, mouthing at hands and leash, fixates on other dogs through fencing, does not settle, overstimulated start to finish",
+      "In the main yard showed moments of soft exploration and accepted petting, but arousal spiked again quickly—zoomies, barking at dogs, fence fighting on the way back in",
+      "Strong puller on leash, 70 pounds of uncontained energy in a concrete box with no outlet"
+    ],
+    "story": "Space Jam was somebody's house dog a week ago—he has manners, he's affectionate, he knows commands. The shelter has broken him open. What looks friendly in a driveway looks like a live wire in a kennel run, and the staff can't safely work with him anymore.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Space Jam needs an experienced handler who understands overstimulation and can give him structure, space, and time to decompress outside of concrete and chaos. He is New Hope Only, which means a qualified partner rescue must pull him by close of business November 23rd."
+  },
+  "A5173473": {
+    "animal_id": "A5173473",
+    "name": "Tundra",
+    "age": "3 years 1 months",
+    "breed": "Siberian Husky",
+    "location": "West Shelter, Wing D - 081",
+    "bullets": [
+      "Greets handlers with a soft body and wagging tail, seeks attention and leans into people",
+      "Walks well on leash through the shelter, sniffs and explores, waits calmly when handlers pause",
+      "Flinches and lip-curls when touched, then settles and allows petting all over",
+      "Resists returning to his kennel—pulls away, rears up, bites at the leash to avoid going back in",
+      "Followed a handler into a new kennel when they ran ahead of him, suggesting he may do better with patient handling"
+    ],
+    "story": "Tundra is a 78-pound husky who wants connection. He greets people warmly, leans in for affection, and walks through the building like he's looking for a way out of the stress. But when it's time to go back into his kennel, he panics—pulling, thrashing, refusing. The shelter has become unbearable for him, and he's running out of time.",
+    "needs": "Tundra flinches before he trusts touch, and his kennel panic means this is not a beginner's dog. He needs an experienced foster who understands fear and won't take his resistance personally, in a home without small children. Because he is New Hope Only, he must be pulled by a partner rescue no later than November 23rd."
+  },
+  "A5175624": {
+    "animal_id": "A5175624",
+    "name": "Dax",
+    "age": "2 years",
+    "breed": "Tricolor Canaan Pit Bull Terrier",
+    "location": "West Shelter, Wing F - 182",
+    "bullets": [
+      "Jumped into a stranger's car when offered food and water after two days on the street—a friendly dog who was surviving however he could.",
+      "Pulls hard on leash, has big zoomies energy in the yard, mouths and jumps on handlers when excited, doesn't settle easily.",
+      "Gets startled easily and tenses up when approached in the kennel, head-shy about leashing, then softens and takes treats gently once he understands what's happening.",
+      "Tried to chase cats in his finder's yard, showed curiosity about another dog but didn't interact.",
+      "Leans into people for affection when he does slow down, play-bows with toys, tolerated handling for leash and kennel work even when anxious."
+    ],
+    "story": "Dax is a two-year-old who spent his whole life wired and nobody taught him another way to be. He's friendly with people, but his energy runs so hot he jumps, mouths, and can't settle when handlers work with him, and he startles hard when things happen fast. He wants to connect, but he doesn't have the skills yet.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Dax needs an experienced handler who understands high-arousal dogs and can teach him to regulate himself without shutting him down. He must be pulled by a New Hope Partner rescue no later than November 24th."
+  },
+  "A5172891": {
+    "animal_id": "A5172891",
+    "name": "Dodger",
+    "age": "4 years 1 months",
+    "breed": "Pit Bull Terrier",
+    "location": "East Shelter, Wing C - 253",
+    "bullets": [
+      "Approaches handlers easily at his kennel, cooperative for leashing, enjoys butt scratches and affection",
+      "Potty trained—rushes to the door to get outside, eliminates immediately in the yard",
+      "Knows sit, food motivated, takes treats gently, pulls moderately on leash but mostly walks loose",
+      "Showed reactivity toward other dogs on one outing",
+      "In shelter since mid-October with persistent respiratory illness—now on urgent medical status with four days left"
+    ],
+    "story": "Dodger has been cooperative and affectionate through six weeks in the shelter, but a respiratory infection that won't clear is wearing him down. He's a house-trained dog who knows his manners and wants to be close to people, and he's running out of time to get well anywhere but concrete.",
+    "needs": "A foster who can manage leash reactivity toward other dogs and provide a quiet place to recover from illness. Medical support will be provided. Deadline is November 24th."
+  },
+  "A5176177": {
+    "animal_id": "A5176177",
+    "name": "Elf",
+    "age": "2 years",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing E - 154",
+    "bullets": [
+      "Sits on cue, takes treats gently, leans into petting and allows handling all over",
+      "Jumps up repeatedly on handlers, wraps paws around arms—redirects with tossed treats but returns to jumping when petting stops or treats run out",
+      "Walks on leash with little pull, ignores other kenneled dogs, loses interest in toys quickly"
+    ],
+    "story": "Elf is a young dog whose affection looks like launching himself at you, paws around your arm, body in your lap. Handlers can redirect him with treats and he settles while being petted, but the second the attention stops he's back up again. He's eager and soft-bodied, not aggressive, but his energy and size make him hard to manage safely in the shelter.",
+    "needs": "This is not a beginner's dog. Elf needs an experienced handler who can teach him how to be with people without climbing them, and who understands that management and redirection are daily work, not quick fixes. He is New Hope Only and must be pulled by a partner rescue with the capacity to support his behavior work in a foster home. Deadline is November 24."
+  },
+  "A5174390": {
+    "animal_id": "A5174390",
+    "name": "Furrari",
+    "age": "1 year",
+    "breed": "Aust Cattle Dog",
+    "location": "West Shelter, Wing S - 334",
+    "bullets": [
+      "Spent evaluation time mostly hiding—under chairs, in corners, tucked in the back of his kennel—but when a handler sat still and waited, he crept over and allowed petting.",
+      "Entered the transport taxi on his own both times after some coaxing, rode quietly watching everything around him.",
+      "So afraid at first that handlers had to tip his bed to move him, but by the second day he could be leashed and would follow a handler across the yard, looking for safe places the whole time.",
+      "No interest in treats even when frightened, but showed brief tail wags near people who stayed calm and gave him space.",
+      "Easily startled by sounds and movement outside his area, flinches on initial touch but settles into allowing contact."
+    ],
+    "story": "Furrari came in after biting someone who tried to remove him from a yard, and everything about him now says he is a dog who has learned the world is not safe. He is young and small and so scared that he shuts down, but in two days of patient handling he moved from frozen to following, from pancaked to sitting beside a chair. What he needs is time no shelter can give him.",
+    "needs": "This is not a beginner's dog. Furrari needs an experienced foster with a quiet home, no surprise movements, and the patience to let a terrified dog learn that people can be predictable and kind. He has a bite history when cornered and must be managed accordingly. New Hope Only: a qualified rescue partner must pull him by end of day November 24th."
   }
 }
