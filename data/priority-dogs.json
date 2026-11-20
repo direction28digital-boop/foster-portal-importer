@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-20T03:11:34.016546+00:00",
+  "fetched_at": "2026-11-20T11:34:40.553942+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 35,
-    "resolved": 12,
-    "parse_errors": 1
+    "resolved": 10,
+    "parse_errors": 0
   },
   "active": [
     {
@@ -402,11 +402,11 @@
       "kennel": "West Kennel, Wing K - 409",
       "deadline": "2026-11-23",
       "days_left": 3,
-      "status": null,
+      "status": "TRANSFER PENDING",
       "resolved": false,
       "token": "OTMx-NDAw-NDZB",
       "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-NDAw-NDZB",
-      "raw": "A5174447 CRANBERRY NHO PRIORITY: Behavior 1 year 6 months Female West Shelter, Wing K - 409 11/23/26",
+      "raw": "Transfer Pending A5174447 CRANBERRY NHO PRIORITY: Behavior 1 year 6 months Female West Shelter, Wing K - 409 11/23/26",
       "breed": "BLACK/BROWN CAIRN TERRIER",
       "level": "ORANGE",
       "weight": "9.0",
@@ -1130,40 +1130,6 @@
   ],
   "resolved": [
     {
-      "animal_id": "A5173954",
-      "name": "Bedhead",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year 1 month",
-      "sex": "Neutered",
-      "shelter": "West",
-      "kennel": "Wing Q - 021",
-      "deadline": "2026-11-16",
-      "days_left": -4,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MzEx-NzJB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MzEx-NzJB",
-      "raw": "Transferred A5173954 BEDHEAD NHO PRIORITY: Behavior 1 year 1 month Neutered West Shelter, Wing Q - 021 11/16/26"
-    },
-    {
-      "animal_id": "A5176535",
-      "name": "Sofia",
-      "nho": true,
-      "reason": "Medical",
-      "age": "10 weeks",
-      "sex": "Female",
-      "shelter": "East",
-      "kennel": "Wing C - 284",
-      "deadline": "2026-11-22",
-      "days_left": 2,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-Nzc2-MzBB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-Nzc2-MzBB",
-      "raw": "Transferred A5176535 SOFIA NHO PRIORITY: Medical 10 weeks Female East Shelter, Wing C - 284 11/22/26"
-    },
-    {
       "animal_id": "A5166180",
       "name": "Indy",
       "nho": false,
@@ -1334,10 +1300,5 @@
       "raw": "Transferred A5174366 PAISLEY NHO PRIORITY: Behavior 1 year Spayed West Shelter, Wing Q - 017 11/22/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Foster A5174409 MINA NHO PRIORITY: Medical 6 years Female West Shelter, Wing F - 195 11/17/26",
-      "token": "OTMx-Mzkz-NjJB"
-    }
-  ]
+  "parse_errors": []
 }
