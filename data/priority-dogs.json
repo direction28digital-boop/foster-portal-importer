@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-22T03:10:10.738853+00:00",
+  "fetched_at": "2026-11-22T11:19:05.973545+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 34,
-    "resolved": 6,
+    "resolved": 3,
     "parse_errors": 1
   },
   "active": [
@@ -1097,57 +1097,6 @@
     }
   ],
   "resolved": [
-    {
-      "animal_id": "A5174246",
-      "name": "Rudy",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Neutered",
-      "shelter": "East",
-      "kennel": "Wing Q - 377",
-      "deadline": "2026-11-17",
-      "days_left": -5,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-MzY0-MjhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-MzY0-MjhB",
-      "raw": "Transferred A5174246 RUDY NHO PRIORITY: Behavior 3 years Neutered East Shelter, Wing Q - 377 11/17/26"
-    },
-    {
-      "animal_id": "A5174361",
-      "name": "Mistletoe",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "3 years",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing K - 485",
-      "deadline": "2026-11-23",
-      "days_left": 1,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-Mzg0-OThB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-Mzg0-OThB",
-      "raw": "Transferred A5174361 MISTLETOE NHO PRIORITY: Behavior 3 years Spayed West Shelter, Wing K - 485 11/23/26"
-    },
-    {
-      "animal_id": "A5174366",
-      "name": "Paisley",
-      "nho": true,
-      "reason": "Behavior",
-      "age": "1 year",
-      "sex": "Spayed",
-      "shelter": "West",
-      "kennel": "Wing Q - 017",
-      "deadline": "2026-11-22",
-      "days_left": 0,
-      "status": "TRANSFERRED",
-      "resolved": true,
-      "token": "OTMx-Mzg1-ODhB",
-      "detail_url": "https://apps.pets.maricopa.gov/priority/Details/OTMx-Mzg1-ODhB",
-      "raw": "Transferred A5174366 PAISLEY NHO PRIORITY: Behavior 1 year Spayed West Shelter, Wing Q - 017 11/22/26"
-    },
     {
       "animal_id": "A5174288",
       "name": "Daffodil",
