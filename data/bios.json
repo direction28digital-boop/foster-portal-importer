@@ -6704,5 +6704,139 @@
     ],
     "story": "She's eight years old and somebody let her walk into traffic. The finder got her out of the road and she stood for it, calm enough to let strangers help. Now she's at West with medical issues piling up and a body that shows long neglect.",
     "needs": "A New Hope Partner rescue must pull her by end of business November 30th. She needs a foster who can go slow, manage her medical care, and give an older dog with a rough past the time to decompress without expecting much in return at first."
+  },
+  "A5176901": {
+    "animal_id": "A5176901",
+    "name": "Dog A5176901",
+    "age": "5 months",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing V - 537",
+    "bullets": [
+      "Found as a stray with two other puppies at five months old, seventeen pounds, still growing.",
+      "Came in frightened—tail tucked, tense—but staff report she is slowly relaxing when touched gently and has begun turning toward handlers.",
+      "Tail wagging recorded at intake, solicited attention, allowed handling and vaccines with light restraint.",
+      "Parvo positive and receiving treatment."
+    ],
+    "story": "This puppy arrived scared and sick, pulled off the street with two others. She is fighting parvo now and needs someone who understands that underneath the fear and the virus is a five-month-old dog who has started to trust the hands that are keeping her alive.",
+    "needs": "A rescue partner experienced with parvo treatment and recovery must pull her by close of business November 29th. After she heals, she will need a foster home that moves slowly, gives her time to decompress, and does not expect her to be confident right away. This is not a beginner's dog."
+  },
+  "A5176902": {
+    "animal_id": "A5176902",
+    "name": "Dog A5176902",
+    "age": "5 months",
+    "breed": "Tan Pit Bull Terrier",
+    "location": "West Shelter, Wing V - 537",
+    "bullets": [
+      "Found at five months old with two other puppies, all three turned out to be parvo positive.",
+      "Shy at first—tail tucked, tense body—but started to relax when handlers moved slowly and gently petted her, then showed a fast tail wag and wiggly body.",
+      "Allowed all handling and vaccines with light restraint, easy leash removal.",
+      "Very young, still learning how the world works."
+    ],
+    "story": "She's a sixteen-pound puppy fighting parvo in a shelter kennel, which is about as hard as it gets. Underneath the fear and the virus, handlers saw her start to relax when they gave her time—tail wagging, body loosening—the beginning of trust from a dog who hasn't had much reason to trust yet.",
+    "needs": "Medical foster experienced with parvo treatment and isolation protocol. A quiet home where she can decompress fully before meeting other dogs. Must be pulled by a New Hope Partner rescue—she cannot be adopted directly and her deadline is firm."
+  },
+  "A5176903": {
+    "animal_id": "A5176903",
+    "name": "Dog A5176903",
+    "age": "5 months",
+    "breed": "Pit Bull Terrier",
+    "location": "West Shelter, Wing V - 538",
+    "bullets": [
+      "Five-month-old puppy at 15.8 pounds, wagging her tail when people approach",
+      "Shy and tense at first, but allows gentle handling and petting once she feels safe",
+      "Tucked tail and watchful in new situations, typical young puppy still learning the world"
+    ],
+    "story": "She's a baby who needs time. This puppy arrived scared, and now she's sick with parvo and running out of time in a place where frightened puppies don't show well. She warms up when people move slowly and let her set the pace.",
+    "needs": "This is a medical urgent case requiring a New Hope rescue partner to pull by end of business November 29. She needs a foster experienced with parvo treatment and recovery, and patient enough to let a shy puppy decompress at her own speed."
+  },
+  "A5176765": {
+    "animal_id": "A5176765",
+    "name": "Bravo",
+    "age": "4 years",
+    "breed": "Black Cane Corso",
+    "location": "West Shelter, Wing E - 125",
+    "bullets": [
+      "Knows sit, paw, and lay down. Treat motivated but grabby—jumps for treats and needs gentle reminders.",
+      "Met handlers with soft wiggly body, leaned in for petting, explored the yard before checking back in.",
+      "Guards food from people and other dogs. Turned his head slightly when ears were touched.",
+      "Walked with moderate pull, interested in neighboring dogs, went back to kennel with light guidance.",
+      "Lived with another dog but played rough. Surrendered for growling and baring teeth at family members."
+    ],
+    "story": "Bravo is a 104-pound Cane Corso who lived four years in a home with young children, another dog, and adults he did not trust. He knows commands and wants connection, but he escalated to teeth and growls when people approached his food or when he felt cornered. The shelter noted high reactivity that was difficult to manage. He has six days.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Bravo needs an experienced handler with no children, no other pets, and the commitment to manage resource guarding and reactivity long term. He must be pulled by a New Hope Partner rescue no later than November 30th."
+  },
+  "A5176546": {
+    "animal_id": "A5176546",
+    "name": "Bronwyn",
+    "age": "3 years",
+    "breed": "Poodle",
+    "location": "West Shelter, Wing K - 436",
+    "bullets": [
+      "Trembles when approached in her kennel, then comes forward for treats, pacing and unable to settle",
+      "Solicits attention from people she knows, jumping up and pressing into laps for pets, but shows mixed signals—stress posture under the affection",
+      "Nipped at a handler's legs when startled after being set down, though she redirected and walked back to her kennel without further incident"
+    ],
+    "story": "Bronwyn is a fifteen-pound poodle mix whose fear runs deeper than her friendliness can cover. She wants connection but doesn't know how to trust it, and when the world moves too fast or hands reach wrong, she reacts. She has six days left and can only leave through a partner rescue.",
+    "needs": "This is not a beginner's dog. Bronwyn needs an experienced foster who understands fear-based behavior and will not expect her to be steady or safe while she learns the world is not a threat. Must be pulled by a registered New Hope Partner no later than November 30th."
+  },
+  "A5176652": {
+    "animal_id": "A5176652",
+    "name": "Jingle",
+    "age": "5 years",
+    "breed": "Chihuahua",
+    "location": "West Shelter, Wing K - 459",
+    "bullets": [
+      "Found sitting roadside with a larger dog, ran when approached, then cornered and picked up by a stranger.",
+      "In the shelter, stays curled up with head low, trembling, teeth chattering, turning his face away.",
+      "Allows handlers to pick him up and pet him but keeps his distance when given the choice, flinches at movement, skin crawls under touch.",
+      "Does not walk on leash, not interested in treats even when frightened, shuts down when approached.",
+      "Five pounds, five years old, not neutered."
+    ],
+    "story": "Jingle is a small dog carrying a lot of fear. He tolerates handling because he has no other option, but everything about his body says he would rather disappear. Whatever put him on that roadside left him with no trust to spare.",
+    "needs": "This is not a beginner's dog. Jingle needs someone experienced with fearful animals who understands that tolerance is not comfort, who will not push him, and who can wait as long as it takes. He is New Hope Only and must be pulled by a partner rescue no later than close of business November 30."
+  },
+  "A5176766": {
+    "animal_id": "A5176766",
+    "name": "Loki",
+    "age": "4 years",
+    "breed": "Cane Corso",
+    "location": "West Shelter, Wing E - 157",
+    "bullets": [
+      "Walks on leash, knows sit, crate trained, lived indoors for four years",
+      "In the yard with staff, stays close, takes treats gently, allows petting all over once he settles",
+      "Heavily startled by sudden noise and movement—flinches at loud sounds, reactive dogs passing, birds overhead",
+      "Trembles, whale eyes, low growls when uncertain, but calms with patient handlers who let him set the pace",
+      "Surrendered for growling and baring teeth at spouse and young children in the home, resource guards food"
+    ],
+    "story": "Loki is a four-year-old Cane Corso who lived inside with one trusted person but escalated with others in the household—spouse, three small children, the other dog. He resource guards, he is not housetrained, and he is so frightened in the shelter that his back legs shake. With slow, still handlers he softens, leans in, takes treats. But sudden movement sends him back to that edge.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Loki needs an experienced handler in a quiet adult-only home with no other animals, someone who understands fear and resource guarding and will not push him past his threshold. He is New Hope Only and must be pulled by a partner rescue no later than November 30."
+  },
+  "A5173530": {
+    "animal_id": "A5173530",
+    "name": "Ludo",
+    "age": "1 years 1 months",
+    "breed": "Retr",
+    "location": "West Shelter, Wing C - 079",
+    "bullets": [
+      "Found wandering, jumped into a stranger's car when called—spent a day in that home with kids 3 to 6, was gentle, got along with small dogs and a cat, knew sit, loved to play fetch and carry soft toys",
+      "Young, strong, mouthy—pulls in a zigzag on leash, chews the leash when excited, chews dog beds and anything fluffy",
+      "Gets overstimulated fast: zoomies turn into jumping, air snapping, and mouthing when arousal spikes, then settles when handlers toss treats and give him space to come down"
+    ],
+    "story": "Ludo is a year-old pointer mix with a motor that runs hot. He's friendly, playful, knows a command, did fine with kids and other animals in the one home that took him in. But in the shelter he escalates when excited—leash thrashing, air snapping, contact with teeth when he can't settle—and handlers have to manage him carefully.",
+    "needs": "This is not a beginner's dog and we will not pretend otherwise. Ludo needs an experienced handler who understands arousal and can read when play is tipping over, who has the skill and patience to teach a young high-energy dog how to stay under threshold. He is New Hope Only and must be pulled by a partner rescue with a foster prepared for behavior work. Deadline is November 30."
+  },
+  "A5173640": {
+    "animal_id": "A5173640",
+    "name": "Jeremy",
+    "age": "11 months",
+    "breed": "Carolina Dog",
+    "location": "West Shelter, Wing I - 280",
+    "bullets": [
+      "Eleven months old, 35 pounds, comes up to the kennel door with a soft body and leans in hard for pets and belly rubs.",
+      "Walks with little pull on leash, interested in people he passes, avoids dogs who bark at him.",
+      "Food motivated, knows sit, takes treats gently, paws at your lap when he wants more affection."
+    ],
+    "story": "Jeremy is a young Carolina Dog who showed up timid and low to the ground but has steadily opened up over the past month. He is affectionate to the point of forgetting himself, puppy-like and sweet, the kind of dog who licks your hand while you unclip his leash. He has kennel cough that is not resolving and his deadline is in seven days.",
+    "needs": "A foster who can give him quiet time to decompress and proper dog introductions only after he has settled. He is listed as a medical priority and time is short."
   }
 }
