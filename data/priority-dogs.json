@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-25T02:25:08.168464+00:00",
+  "fetched_at": "2026-11-25T12:50:08.241997+00:00",
   "source": "https://apps.pets.maricopa.gov/Priority/ (MCACC Priority Placement Portal)",
   "counts": {
     "active": 38,
     "resolved": 5,
-    "parse_errors": 1
+    "parse_errors": 0
   },
   "active": [
     {
@@ -1311,10 +1311,5 @@
       "raw": "Transferred A5175147 BURRITO NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing Q - 032 11/23/26"
     }
   ],
-  "parse_errors": [
-    {
-      "parse_error": "Returned to Owner A5173473 LOKI NHO PRIORITY: Behavior 2 years Neutered West Shelter, Wing D - 081 11/23/26",
-      "token": "OTMx-MjI1-MTRB"
-    }
-  ]
+  "parse_errors": []
 }
