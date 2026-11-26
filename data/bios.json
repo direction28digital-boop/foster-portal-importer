@@ -6948,5 +6948,35 @@
     ],
     "story": "This ten-year-old little dog was spotted walking down a street in Mesa and allowed someone to scoop him up without hesitation. Inside the shelter he's quiet and gentle, tail wagging for every visitor, waiting with the patience of a dog who's already lived a long time and doesn't have much fight left in him.",
     "needs": "Medical priority, geriatric, deadline December 2nd. Must be pulled by a New Hope Partner rescue—this is not a direct foster placement. Needs a home ready for an older dog with ongoing medical care, patience, and soft food."
+  },
+  "A5177117": {
+    "animal_id": "A5177117",
+    "name": "Dog A5177117",
+    "age": "1 year",
+    "breed": "Chihuahua Sh",
+    "location": "West Shelter, Wing V - 540",
+    "bullets": [
+      "Wagged her tail when staff approached, body soft and loose",
+      "Let handlers pick her up and carry her without resistance",
+      "Accepted petting and handling from strangers"
+    ],
+    "story": "This young Chihuahua came in friendly and trusting three days ago. Now she's battling parvo in a shelter kennel, and her deadline is Sunday.",
+    "needs": "Medical foster experienced with parvo isolation, IV fluids, and round-the-clock care. Must be pulled by a New Hope Partner rescue—she cannot be direct adopted. If your rescue can take her, submit the pull request by 5:30 a.m. November 30th."
+  },
+  "A5176561": {
+    "animal_id": "A5176561",
+    "name": "Nadia",
+    "age": "9 years",
+    "breed": "Rottweiler",
+    "location": "West Shelter, Wing S - 309",
+    "bullets": [
+      "Leans into gentle head pets and presses her face into a handler's hand",
+      "Walks well on leash once she's on her feet, though it takes encouragement to get her to stand",
+      "Soft body language when someone baby-talks and extends a hand slowly, but lies still and flinches when movements are fast or sudden",
+      "Has not been eating dry kibble; staff have been coaxing her with canned food",
+      "Allowed all handling and vaccinations without resistance"
+    ],
+    "story": "Nadia is a nine-year-old Rottweiler who is shutting down hard in the shelter. She lets people handle her, even seeks out the comfort of a hand on her head, but she is so frightened that fast movement makes her flinch and she will not get up without coaxing. She needs diagnostics and care the shelter cannot provide.",
+    "needs": "Nadia is New Hope Only and must be pulled by a qualified partner rescue by end of business December 2nd. She needs a foster experienced with fearful dogs who will go slowly, speak softly, and give her the time and space to remember she is safe. Medical priority."
   }
 }
